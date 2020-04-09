@@ -1,2 +1,2 @@
-# Coursera_Capstone
-Assignment Capstone Project Notebook
+# IBM Data Science Capstone Project
+Battle of Neighborhoods
