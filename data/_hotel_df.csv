@@ -1,0 +1,534 @@
+,PremisesName,Address,City,PostalCode,Latitude,Longitude,MachineCount,MeshBlockCode,CityCode,StateCode,State,LgaCode,LgaName,PostalCodePopulation,PostalCodeAvgTaxableIncome,PostalCodeRankTaxableIncome
+0,AAMI Stadium,"1 Turner Dr, West Lakes SA 5021, Australia",West Lakes,5021,-34.87993470000001,138.4939822,40,40030670000,41554,4,South Australia,41060,Charles Sturt (C),3932,58756.0,57
+1,Aberfoyle Tavern,"The Hub Shopping Centre, Christie Way, Aberfoyle Park SA 5159, Australia",Aberfoyle Park,5159,-35.0753426,138.5913242,40,40117850000,40001,4,South Australia,45340,Onkaparinga (C),20418,52190.0,114
+2,Aces Bar and Bistro,"62-72 Gouger St, Adelaide SA 5000, Australia",Adelaide,5000,-34.9301124,138.5967667,36,40000010000,40002,4,South Australia,40070,Adelaide (C),7785,63332.0,33
+3,Alberton Hotel,"124 Port Rd, Alberton SA 5014, Australia",Alberton,5014,-34.8610829,138.5142491,40,40150780000,40007,4,South Australia,45890,Port Adelaide Enfield (C),6570,49462.0,155
+4,Albion Hotel,"423 Churchill Rd, Kilburn SA 5084, Australia",Kilburn,5084,-34.8603506,138.5833917,40,40142140000,40686,4,South Australia,45890,Port Adelaide Enfield (C),4683,41453.0,298
+5,Aldgate Pump Hotel,"1 Strathalbyn Rd, Aldgate SA 5154, Australia",Aldgate,5154,-35.015222,138.7367067,40,40003800000,40008,4,South Australia,40120,Adelaide Hills (DC),2264,78864.0,10
+6,Aldinga Hotel,"Old Coach Rd, Aldinga SA 5173, Australia",Aldinga,5173,-35.2671017,138.4827763,40,40111080000,40009,4,South Australia,45340,Onkaparinga (C),6633,45323.0,233
+7,Alma Hotel,"11 Hill St, Willunga SA 5172, Australia",Willunga,5172,-35.2704817,138.5547211,12,40110930000,41595,4,South Australia,45340,Onkaparinga (C),2565,50498.0,140
+8,Alma Tavern,"66 Magill Rd, Norwood SA 5067, Australia",Norwood,5067,-34.9156634,138.6273249,40,40106130000,41044,4,South Australia,45290,Norwood Payneham St Peters (C),6601,75339.0,13
+9,Ambassadors Hotel,"107 King William St, Adelaide SA 5000, Australia",Adelaide,5000,-34.9253797,138.5996965,40,40000010000,40002,4,South Australia,40070,Adelaide (C),7785,63332.0,33
+10,Angas Park Hotel,"28 Murray St, Nuriootpa SA 5355, Australia",Nuriootpa,5355,-34.4722304,138.996363,40,40013001000,41049,4,South Australia,40310,Barossa (DC),4424,50273.0,143
+11,Angaston Hotel,"59 Murray St, Angaston SA 5353, Australia",Angaston,5353,-34.5013921,139.0456225,40,40012981000,40029,4,South Australia,40310,Barossa (DC),2258,51478.0,128
+12,Angle Vale Tavern,"115 Heaslip Rd, Angle Vale SA 5117, Australia",Angle Vale,5117,-34.6460006,138.6440504,32,40135632000,40031,4,South Australia,45680,Playford (C),1839,52080.0,116
+13,Anglers Inn Hotel Motel,"9 Bagot St, Wallaroo SA 5556, Australia",Wallaroo,5556,-33.92947,137.63018,25,40046150000,41502,4,South Australia,41560,Copper Coast (DC),1810,44280.0,251
+14,Arab Steed Hotel,"241 Hutt St, Adelaide SA 5000, Australia",Adelaide,5000,-34.9338556,138.6121802,25,40000010000,40002,4,South Australia,40070,Adelaide (C),7785,63332.0,33
+15,Ardrossan Motel Hotel,"36 First St, Ardrossan SA 5571, Australia",Ardrossan,5571,-34.4236607,137.9182323,12,40215010800,40038,4,South Australia,48830,Yorke Peninsula (DC),892,48107.0,186
+16,Arkaba Hotel Motel,"150 Glen Osmond Rd, Fullarton SA 5063, Australia",Fullarton,5063,-34.9470333,138.6260611,40,40194850000,40464,4,South Australia,47980,Unley (C),7603,68387.0,21
+17,Aurora Ozone Hotel,"overlooking the Foreshore, 67 Chapman Terrace, Kingscote SA 5223, Australia",Kingscote,5223,-35.655593,137.6403076,40,40060490000,40691,4,South Australia,42750,Kangaroo Island (DC),2106,41835.0,292
+18,Aussie Inn,"108 Main S Rd, Hackham SA 5163, Australia",Hackham,5163,-35.1514326,138.5242314,40,40109100000,40538,4,South Australia,45340,Onkaparinga (C),6828,43205.0,273
+19,Austral Motel-Hotel,"16 Railway Terrace, Quorn SA 5433, Australia",Quorn,5433,-32.3458026,138.0408244,15,40049500000,41220,4,South Australia,41830,Flinders Ranges (DC),649,51569.0,125
+20,Avenues Hotel,"114 Payneham Rd, Stepney SA 5069, Australia",Stepney,5069,-34.9094831,138.6285675,40,40106811000,41369,4,South Australia,45290,Norwood Payneham St Peters (C),5370,81058.0,7
+21,Avoca Hotel,"893 South Rd, Clarence Gardens SA 5039, Australia",Clarence Gardens,5039,-34.9743503,138.5735862,40,40090180000,40258,4,South Australia,44340,Mitcham (C),5093,51752.0,120
+22,BH Community Club Inc,"39 Alexander St, Port Pirie SA 5540, Australia",Port Pirie,5540,-33.177563,138.008301,20,40156882000,41195,4,South Australia,46450,Port Pirie City and Dists (M),7028,49192.0,161
+23,Barmera Hotel Motel,"31/31 Barwell Ave, Barmera SA 5345, Australia",Barmera,5345,-34.2506546,140.4637398,40,40016731000,40072,4,South Australia,40520,Berri and Barmera (DC),1929,43767.0,260
+24,Barmera-Monash Football Club,"149 Dean Dr, Barmera SA 5345, Australia",Barmera,5345,-34.2484958,140.46249,14,40016731000,40072,4,South Australia,40520,Berri and Barmera (DC),1929,43767.0,260
+25,Barossa Brauhaus,"41 Murray St, Angaston SA 5353, Australia",Angaston,5353,-34.5013118,139.0476734,40,40012981000,40029,4,South Australia,40310,Barossa (DC),2258,51478.0,128
+26,Bartley Tavern,"Bartley Terrace, West Lakes Shore SA 5020, Australia",West Lakes Shore,5020,-34.8597222,138.4911111,40,40031310000,41555,4,South Australia,41060,Charles Sturt (C),1954,59154.0,55
+27,Barzaar,"166 Unley Rd, Unley SA 5061, Australia",Unley,5061,-34.9491606,138.6070611,31,40195300000,41474,4,South Australia,47980,Unley (C),6587,93871.0,2
+28,Bath Hotel,"232 The Parade, Norwood SA 5067, Australia",Norwood,5067,-34.9213381,138.6389237,40,40106130000,41044,4,South Australia,45290,Norwood Payneham St Peters (C),6601,75339.0,13
+29,Bay Hotel Motel,"58 Broadway, Glenelg South SA 5045, Australia",Glenelg South,5045,-34.9883208,138.5165261,40,40054860000,40503,4,South Australia,42600,Holdfast Bay (C),10400,64336.0,29
+30,Beach Hotel Seaford,"Commercial Road &, Griffiths Dr, Seaford SA 5169, Australia",Seaford,5169,-35.1928813,138.4784047,40,40121312000,41302,4,South Australia,45340,Onkaparinga (C),9675,47901.0,189
+31,Beachport Hotel,"Railway Terrace, Beachport SA 5280, Australia",Beachport,5280,-37.480477,140.0121139,12,40205420000,40081,4,South Australia,48340,Wattle Range (DC),4016,50117.0,145
+32,Bedford Hotel,"60 Onkaparinga Valley Rd, Woodside SA 5244, Australia",Woodside,5244,-34.951172,138.87609,12,40007480000,41627,4,South Australia,40120,Adelaide Hills (DC),2467,51561.0,126
+33,Belair Hotel,"141 Main Rd, Blackwood SA 5051, Australia",Blackwood,5051,-35.0122222,138.6225,40,40084860000,40117,4,South Australia,44340,Mitcham (C),9162,59625.0,52
+34,Benjamin On Franklin Hotel,"233 Franklin St, Adelaide SA 5000, Australia",Adelaide,5000,-34.9277913,138.5903495,22,40000010000,40002,4,South Australia,40070,Adelaide (C),7785,63332.0,33
+35,Bentleys Hotel,"191 Main N Rd, Clare SA 5453, Australia",Clare,5453,-33.8352946,138.6140189,13,40044342000,40257,4,South Australia,41140,Clare and Gilbert Valleys (DC),3024,50599.0,139
+36,Berri Club,"1080 Old Sturt Hwy, Berri SA 5343, Australia",Berri,5343,-34.2823902,140.5894336,12,40017290000,40096,4,South Australia,40520,Berri and Barmera (DC),2714,45504.0,230
+37,Berri Hotel,"Riverview Dr, Berri SA 5343, Australia",Berri,5343,-34.2873341,140.6045917,40,40017290000,40096,4,South Australia,40520,Berri and Barmera (DC),2714,45504.0,230
+38,Big River Tavern,"Shiell Rd, Berri SA 5343, Australia",Berri,5343,-34.26732,140.606702,40,40017290000,40096,4,South Australia,40520,Berri and Barmera (DC),2714,45504.0,230
+39,Birkenhead Tavern,"3/7 Riverview St, Birkenhead SA 5015, Australia",Birkenhead,5015,-34.839925,138.503317,40,40144921000,40108,4,South Australia,45890,Port Adelaide Enfield (C),3526,52167.0,115
+40,Black Bull Hotel,"58 Hindley St, Adelaide SA 5000, Australia",Adelaide,5000,-34.922649,138.597212,40,40000010000,40002,4,South Australia,40070,Adelaide (C),7785,63332.0,33
+41,Blacksmiths Inn,"Black Top Rd, One Tree Hill SA 5114, Australia",One Tree Hill,5114,-34.7190552,138.7660217,12,40129490000,41065,4,South Australia,45680,Playford (C),17569,47468.0,192
+42,Blanchetown Hotel,"1 Egerton St, Blanchetown SA 5357, Australia",Blanchetown,5357,-34.3515649,139.6140469,40,40082501000,40122,4,South Australia,44210,Mid Murray (DC),203,37548.0,320
+43,Blue Gums Hotel,"345 Hancock Rd, Fairview Park SA 5126, Australia",Fairview Park,5126,-34.8004605,138.7178448,40,40184140000,40424,4,South Australia,47700,Tea Tree Gully (C),4375,51125.0,135
+44,Blumberg Hotel,"24 Shannon St, Birdwood SA 5234, Australia",Birdwood,5234,-34.8203368,138.9555314,18,40006790000,40107,4,South Australia,40120,Adelaide Hills (DC),871,51394.0,130
+45,Bordertown Hotel,"79 East Terrace, Bordertown SA 5268, Australia",Bordertown,5268,-36.3102007,140.775349,30,40179910000,40142,4,South Australia,47630,Tatiara (DC),2412,42745.0,282
+46,Bridge Hotel Langhorne Creek,"70 Bridge Rd, Langhorne Creek SA 5255, Australia",Langhorne Creek,5255,-35.296674,139.037123,8,40011150000,40741,4,South Australia,40220,Alexandrina (DC),5359,46377.0,215
+47,Bridgeport Hotel,"2 Bridge St, Murray Bridge SA 5253, Australia",Murray Bridge,5253,-35.1177778,139.2780556,40,40099410000,40979,4,South Australia,45040,Murray Bridge (RC),9833,41308.0,300
+48,Bridgewater Inn,"387 Mount Barker Rd, Bridgewater SA 5155, Australia",Bridgewater,5155,-35.0090942,138.7573395,32,40003830000,40158,4,South Australia,40120,Adelaide Hills (DC),2428,58494.0,61
+49,Bridgeway Hotel,"18 Bridge Rd, Pooraka SA 5095, Australia",Pooraka,5095,-34.8358333,138.6247222,40,40173300000,41171,4,South Australia,47140,Salisbury (C),11753,51433.0,129
+50,Brighton Metro Hotel,"466 Brighton Rd, Brighton SA 5048, Australia",Brighton,5048,-35.0187753,138.5243108,40,40057990000,40160,4,South Australia,42600,Holdfast Bay (C),8756,58653.0,58
+51,Britannia Hotel,"1 Kensington Rd, Norwood SA 5067, Australia",Norwood,5067,-34.927767,138.6240106,40,40106130000,41044,4,South Australia,45290,Norwood Payneham St Peters (C),6601,75339.0,13
+52,Broadway Hotel,"61 Broadway, Glenelg SA 5045, Australia",Glenelg,5045,-34.9878742,138.516988,40,40054740000,40500,4,South Australia,42600,Holdfast Bay (C),10400,64336.0,29
+53,Brompton Hotel,"5 First St, Brompton SA 5007, Australia",Brompton,5007,-34.9026013,138.5719647,30,40040810000,40165,4,South Australia,41060,Charles Sturt (C),4256,54415.0,91
+54,Buckingham Arms Hotel,"1 Walkerville Terrace, Gilberton SA 5081, Australia",Gilberton,5081,-34.90129599999999,138.609476,40,40203560000,40487,4,South Australia,48260,Walkerville (M),6077,92916.0,3
+55,Bushmans Arms Hotel,"20 Robertson St, Naracoorte SA 5271, Australia",Naracoorte,5271,-36.9570835,140.7423454,40,40101641000,41002,4,South Australia,45090,Naracoorte and Lucindale (DC),4907,45760.0,226
+56,Bute Hotel,"21 Railway Terrace, Bute SA 5560, Australia",Bute,5560,-33.8651345,138.0073729,6,40016010000,40197,4,South Australia,40430,Barunga West (DC),243,59908.0,51
+57,Cadell Club,"18 McGuire Terrace, Cadell SA 5321, Australia",Cadell,5321,-34.0365315,139.7641837,8,40082441000,40199,4,South Australia,44210,Mid Murray (DC),160,40770.0,301
+58,Cadney Park Roadhouse,"Cadney Park, Marla SA 5724, Australia",Marla,5724,-27.9066822,134.0543337,6,40243770000,40825,4,South Australia,49399,Unincorporated SA,119,45377.0,231
+59,Caledonian Hotel,"219 O'Connell St, North Adelaide SA 5006, Australia",North Adelaide,5006,-34.9022222,138.5941667,20,40000080000,41029,4,South Australia,40070,Adelaide (C),4183,90092.0,5
+60,Callington Hotel,"Montefiore St, Callington SA 5254, Australia",Callington,5254,-35.1152851,139.039964,6,40095260000,40203,4,South Australia,44550,Mount Barker (DC),1260,42358.0,288
+61,Campania Sports And Social Club,"5 Famechon Cres, Modbury North SA 5092, Australia",Modbury North,5092,-34.8192553,138.6821715,20,40180970000,40893,4,South Australia,47700,Tea Tree Gully (C),9862,47216.0,195
+62,Cape Jervis Tavern,"Main S Rd, Cape Jervis SA 5204, Australia",Cape Jervis,5204,-35.6040437,138.1080828,10,40218240000,40220,4,South Australia,48750,Yankalilla (DC),1454,39762.0,309
+63,Carlisle Tavern,"39 Carlisle St, Ethelton SA 5015, Australia",Ethelton,5015,-34.8493156,138.4898778,40,40144850000,40411,4,South Australia,45890,Port Adelaide Enfield (C),3526,52167.0,115
+64,Castle Tavern,"Castle Plaza, South Rd, Edwardstown SA 5039, Australia",Edwardstown,5039,-34.9824572,138.5729069,40,40076351000,40391,4,South Australia,44060,Marion (C),5093,51752.0,120
+65,Cathedral Hotel,"45 Kermode St, North Adelaide SA 5006, Australia",North Adelaide,5006,-34.9122222,138.5988889,12,40000080000,41029,4,South Australia,40070,Adelaide (C),4183,90092.0,5
+66,Cavan Hotel,"Port Wakefield Rd, Dry Creek SA 5094, Australia",Dry Creek,5094,-34.8346812,138.5984812,40,40142201000,40369,4,South Australia,45890,Port Adelaide Enfield (C),484,49355.0,158
+67,Ceduna Foreshore Hotel Motel,"32 O'Loughlin Terrace, Ceduna SA 5690, Australia",Ceduna,5690,-32.1268913,133.672583,40,40029740000,40236,4,South Australia,41010,Ceduna (DC),2141,51155.0,133
+68,Central Augusta Football and Community Sporting Club,"3 Hannagan St, Port Augusta SA 5700, Australia",Port Augusta,5700,-32.5108135,137.7854784,20,40152541000,41175,4,South Australia,46090,Port Augusta (C),5427,52060.0,117
+69,Central District Footballers Club,"10 Goodman Rd, Elizabeth SA 5112, Australia",Elizabeth,5112,-34.7206414,138.6634377,40,40132140000,40393,4,South Australia,45680,Playford (C),7679,42737.0,283
+70,Central Hotel,"30 Alexander St, Port Pirie SA 5540, Australia",Port Pirie,5540,-33.1770313,138.0089415,32,40156882000,41195,4,South Australia,46450,Port Pirie City and Dists (M),7028,49192.0,161
+71,Challa Gardens Hotel,"337 Torrens Rd, Croydon SA 5008, Australia",Croydon,5008,-34.8821217,138.5592307,40,40041260000,40326,4,South Australia,41060,Charles Sturt (C),7094,48171.0,184
+72,Charleston Hotel,"26 Onkaparinga Valley Rd, Charleston SA 5244, Australia",Charleston,5244,-34.9167103,138.899914,5,40008100000,40244,4,South Australia,40120,Adelaide Hills (DC),2467,51561.0,126
+73,Christies Beach Hotel,"12-13 Gulfview Rd, Christies Beach SA 5065, Australia",Christies Beach,5065,-35.1312046,138.4743973,40,40115100000,40255,4,South Australia,45340,Onkaparinga (C),6585,77310.0,11
+74,Clare Hotel,"244 Main N Rd, Clare SA 5453, Australia",Clare,5453,-33.8338889,138.6119444,25,40044342000,40257,4,South Australia,41140,Clare and Gilbert Valleys (DC),3024,50599.0,139
+75,Cleve Hotel,"32 Fourth St, Cleve SA 5640, Australia",Cleve,5640,-33.7029365,136.4936244,8,40045370000,40267,4,South Australia,41190,Cleve (DC),649,49154.0,162
+76,Clovercrest Hotel Motel,"450 Montague Rd, Modbury North SA 5092, Australia",Modbury North,5092,-34.8284386,138.673921,40,40180970000,40893,4,South Australia,47700,Tea Tree Gully (C),9862,47216.0,195
+77,Clyde Hotel,"27 Unley Rd, Parkside SA 5063, Australia",Parkside,5063,-34.943168,138.607151,40,40194830000,41102,4,South Australia,47980,Unley (C),7603,68387.0,21
+78,Cobdogla and District Club,"13 Rowe St, Cobdogla SA 5346, Australia",Cobdogla,5346,-34.2451452,140.4039163,20,40016880000,40272,4,South Australia,40520,Berri and Barmera (DC),166,43847.0,259
+79,Coffin Bay Hotel,"Shepperd Ave, Coffin Bay SA 5607, Australia",Coffin Bay,5607,-34.621566,135.4615652,13,40066040000,40277,4,South Australia,43710,Lower Eyre Peninsula (DC),2041,48231.0,182
+80,Colonel Light Hotel,"141 Currie St, Adelaide SA 5000, Australia",Adelaide,5000,-34.9249276,138.5926891,20,40000010000,40002,4,South Australia,40070,Adelaide (C),7785,63332.0,33
+81,Colonist Tavern,"44 The Parade, Norwood SA 5067, Australia",Norwood,5067,-34.92196,138.627363,40,40106130000,41044,4,South Australia,45290,Norwood Payneham St Peters (C),6601,75339.0,13
+82,Colonnades Tavern,"54 Beach Rd, Christies Beach SA 5165, Australia",Christies Beach,5165,-35.1402568,138.4949479,40,40115100000,40255,4,South Australia,45340,Onkaparinga (C),2703,44132.0,256
+83,Commercial Hotel,"22 Commercial St, Burra SA 5417, Australia",Burra,5417,-33.682809,138.938083,6,40052691000,40193,4,South Australia,42110,Goyder (DC),794,44079.0,257
+84,Commercial Hotel,"24 Main St, Cowell SA 5602, Australia",Cowell,5602,-33.6835902,136.9249966,13,40050022000,40316,4,South Australia,41960,Franklin Harbour (DC),696,46539.0,211
+85,Commercial Hotel,"70 Old Port Wakefield Rd, Two Wells SA 5501, Australia",Two Wells,5501,-34.5954544,138.5171029,10,40069411000,41464,4,South Australia,40150,Adelaide Plains (DC),4007,51241.0,132
+86,Commercial Hotel,"76 Commercial St W, Mount Gambier SA 5290, Australia",Mount Gambier,5290,-37.8271859,140.7770931,40,40095360000,40940,4,South Australia,44620,Mount Gambier (C),14686,49042.0,166
+87,Commercial Hotel,"13 Railway Terrace, Morgan SA 5320, Australia",Morgan,5320,-34.0353885,139.6711192,14,40082641000,40915,4,South Australia,44210,Mid Murray (DC),279,42335.0,289
+88,Commercial Hotel,"27 High St, Strathalbyn SA 5255, Australia",Strathalbyn,5255,-35.255963,138.8930947,25,40011110000,41382,4,South Australia,40220,Alexandrina (DC),5359,46377.0,215
+89,Commercial Hotel,"35 Ayr St, Jamestown SA 5491, Australia",Jamestown,5491,-33.205954,138.605661,18,40102881000,40629,4,South Australia,45120,Northern Areas (DC),1091,53724.0,100
+90,Coobowie Hotel,"59 Beach Rd, Coobowie SA 5583, Australia",Coobowie,5583,-35.0440949,137.7311175,6,40215037600,40294,4,South Australia,48830,Yorke Peninsula (DC),372,37756.0,319
+91,Coonalpyn Hotel,"45 Poyntz Terrace, Coonalpyn SA 5265, Australia",Coonalpyn,5265,-35.69743,139.85818,7,40192900000,40302,4,South Australia,47800,The Coorong (DC),215,41758.0,293
+92,Coopers Alehouse Wallaroo,"11 Heritage Dr, Wallaroo SA 5556, Australia",Wallaroo,5556,-33.9240117,137.6311707,40,40046150000,41502,4,South Australia,41560,Copper Coast (DC),1810,44280.0,251
+93,Copley Hotel,"20 Railway Terrace W, Copley SA 5732, Australia",Copley,5732,-30.5548268,138.423693,15,40227030000,40308,4,South Australia,49399,Unincorporated SA,87,46496.0,212
+94,Copper Coast Hotel,"49 Owen Terrace, Wallaroo SA 5556, Australia",Wallaroo,5556,-33.9320392,137.6286703,12,40046150000,41502,4,South Australia,41560,Copper Coast (DC),1810,44280.0,251
+95,Corio Hotel,"1 Railway Terrace, Goolwa SA 5214, Australia",Goolwa,5214,-35.5034104,138.783742,31,40008820000,40516,4,South Australia,40220,Alexandrina (DC),4071,40545.0,305
+96,Cornwall Hotel,"20 Ryan St, Moonta SA 5558, Australia",Moonta,5558,-34.0671523,137.5921191,17,40046330000,40906,4,South Australia,41560,Copper Coast (DC),2252,43667.0,264
+97,Coromandel Valley Duck Inn,"393 Main Rd, Coromandel Valley SA 5051, Australia",Coromandel Valley,5051,-35.040225,138.62694,40,40084510000,40311,4,South Australia,44340,Mitcham (C),9162,59625.0,52
+98,Cove Tavern,"4 Ramrod Ave, Hallett Cove SA 5158, Australia",Hallett Cove,5158,-35.0772222,138.5177778,40,40079890000,40548,4,South Australia,44060,Marion (C),15497,51144.0,134
+99,Cremorne Hotel,"207 Unley Rd, Unley SA 5061, Australia",Unley,5061,-34.9535843,138.6078816,40,40195300000,41474,4,South Australia,47980,Unley (C),6587,93871.0,2
+100,Criterion Tavern,"18 Nineteenth St, Gawler SA 5118, Australia",Gawler,5118,-34.6084949,138.7405695,40,40050490000,40469,4,South Australia,42030,Gawler (T),10640,52422.0,111
+101,Cross Keys Hotel,"156/160 Port Wakefield Rd, Cavan SA 5094, Australia",Cavan,5094,-34.8280172,138.5989259,40,40177842000,40233,4,South Australia,47140,Salisbury (C),484,49355.0,158
+102,Crown Inn,"Old S Rd, Old Reynella SA 5161, Australia",Old Reynella,5161,-35.09042580000001,138.5409406,40,40125261000,41062,4,South Australia,45340,Onkaparinga (C),5571,46081.0,219
+103,Crown Inn Hotel,"31 Agnes St, Kingston SE SA 5275, Australia",Kingston SE,5275,-36.829471,139.85697,15,40063051000,40695,4,South Australia,43360,Kingston (DC),1385,52291.0,112
+104,Crystal Brook Hotel,"47 Railway Terrace, Crystal Brook SA 5523, Australia",Crystal Brook,5523,-33.3529263,138.2060271,7,40159091000,40328,4,South Australia,46450,Port Pirie City and Dists (M),981,57247.0,68
+105,Cudlee Creek Restaurant and Tavern,"Opposite cnr Gorge Rd &, Redden Dr, Cudlee Creek SA 5232, Australia",Cudlee Creek,5232,-34.839817,138.8167679,10,40006760000,40329,4,South Australia,40120,Adelaide Hills (DC),266,55465.0,84
+106,Cue Sports SA Inc,"1/546 Marion Rd, Plympton Park SA 5038, Australia",Plympton Park,5038,-34.9777796,138.5554284,26,40076522000,41154,4,South Australia,44060,Marion (C),9478,48463.0,177
+107,Cumberland Arms Hotel,"205 Waymouth St, Adelaide SA 5000, Australia",Adelaide,5000,-34.9263889,138.5919444,15,40000010000,40002,4,South Australia,40070,Adelaide (C),7785,63332.0,33
+108,Cumberland Hotel,"76 Causeway Rd, Glanville SA 5015, Australia",Glanville,5015,-34.8428459,138.4929352,6,40145422000,40494,4,South Australia,45890,Port Adelaide Enfield (C),3526,52167.0,115
+109,Cummins Hotel,"36/38 Railway Terrace, Cummins SA 5631, Australia",Cummins,5631,-34.264239,135.728114,8,40066220000,40333,4,South Australia,43710,Lower Eyre Peninsula (DC),788,55839.0,80
+110,Dalrymple Hotel,"4 Anzac Parade, Stansbury SA 5582, Australia",Stansbury,5582,-34.9090051,137.7974651,10,40214972800,41365,4,South Australia,48830,Yorke Peninsula (DC),323,42882.0,280
+111,Desert Cave Hotel Motel,"1 Hutchison St, Coober Pedy SA 5723, Australia",Coober Pedy,5723,-29.011006,134.75468,16,40045740000,40293,4,South Australia,41330,Coober Pedy (DC),831,44697.0,247
+112,District Hotel,"77 Main Rd, Nairne SA 5252, Australia",Nairne,5252,-35.0359515,138.9123696,12,40092440000,40996,4,South Australia,44550,Mount Barker (DC),3825,48879.0,167
+113,Docklands Hotel,"36 N Parade, Port Adelaide SA 5015, Australia",Port Adelaide,5015,-34.8434361,138.5023482,10,40150771000,41173,4,South Australia,45890,Port Adelaide Enfield (C),3526,52167.0,115
+114,Dockside Tavern,"4 Santo Parade, Port Adelaide SA 5015, Australia",Port Adelaide,5015,-34.8422335,138.5123787,20,40150771000,41173,4,South Australia,45890,Port Adelaide Enfield (C),3526,52167.0,115
+115,Dog and Duck,"125 Hindley St, Adelaide SA 5000, Australia",Adelaide,5000,-34.923456,138.59489,20,40000010000,40002,4,South Australia,40070,Adelaide (C),7785,63332.0,33
+116,Duke Of York Hotel,"82 Currie St, Adelaide SA 5000, Australia",Adelaide,5000,-34.924397,138.596445,10,40000010000,40002,4,South Australia,40070,Adelaide (C),7785,63332.0,33
+117,Duke of Brunswick Hotel,"207 Gilbert St, Adelaide SA 5000, Australia",Adelaide,5000,-34.9348808,138.5924361,6,40000010000,40002,4,South Australia,40070,Adelaide (C),7785,63332.0,33
+118,Earl Of Aberdeen Hotel,"316 Pulteney St, Adelaide SA 5000, Australia",Adelaide,5000,-34.9310784,138.6063672,10,40000010000,40002,4,South Australia,40070,Adelaide (C),7785,63332.0,33
+119,Earl Of Leicester Hotel,"85 Leicester St, Parkside SA 5063, Australia",Parkside,5063,-34.946395,138.614531,40,40194830000,41102,4,South Australia,47980,Unley (C),7603,68387.0,21
+120,Eden Valley Hotel,"11 Murray St, Eden Valley SA 5235, Australia",Eden Valley,5235,-34.6420482,139.098233,6,40014400000,40386,4,South Australia,40310,Barossa (DC),1373,45163.0,238
+121,Edinburgh Hotel,"7 High St, Mitcham SA 5062, Australia",Mitcham,5062,-34.9781278,138.6226572,36,40085480000,40884,4,South Australia,44340,Mitcham (C),9776,74550.0,14
+122,Edithburgh Hotel,"16 Edith St, Edithburgh SA 5583, Australia",Edithburgh,5583,-35.0845413,137.7459761,9,40214976900,40390,4,South Australia,48830,Yorke Peninsula (DC),372,37756.0,319
+123,Electra House Hotel,"131 King William St, Adelaide SA 5000, Australia",Adelaide,5000,-34.926253,138.5993686,28,40000010000,40002,4,South Australia,40070,Adelaide (C),7785,63332.0,33
+124,Elephant and Castle Hotel,"179 West Terrace, Adelaide SA 5000, Australia",Adelaide,5000,-34.9347222,138.5886111,7,40000010000,40002,4,South Australia,40070,Adelaide (C),7785,63332.0,33
+125,Elizabeth Tavern,"Elizabeth Way, Elizabeth SA 5112, Australia",Elizabeth,5112,-34.7203811,138.6675927,40,40132140000,40393,4,South Australia,45680,Playford (C),7679,42737.0,283
+126,Elliston Hotel,"39 Beach Terrace, Elliston SA 5670, Australia",Elliston,5670,-33.6491033,134.8891366,6,40048950000,40401,4,South Australia,41750,Elliston (DC),276,45804.0,224
+127,Empire Hotel,"414 Prospect Rd, Kilburn SA 5084, Australia",Kilburn,5084,-34.8629315,138.5922273,40,40142140000,40686,4,South Australia,45890,Port Adelaide Enfield (C),4683,41453.0,298
+128,Emu Hotel - Morphett Vale,"132 Main S Rd, Morphett Vale SA 5162, Australia",Morphett Vale,5162,-35.1243346,138.5238755,40,40112170000,40917,4,South Australia,45340,Onkaparinga (C),18472,45328.0,232
+129,Esplanade Hotel,"135 Esplanade, Brighton SA 5048, Australia",Brighton,5048,-35.0171838,138.5148463,40,40057990000,40160,4,South Australia,42600,Holdfast Bay (C),8756,58653.0,58
+130,Eureka Tavern,"10 Park Terrace, Salisbury SA 5108, Australia",Salisbury,5108,-34.763464,138.641736,40,40164461000,41275,4,South Australia,47140,Salisbury (C),19239,43160.0,274
+131,Exchange Tavern,"155 Murray St, Gawler SA 5118, Australia",Gawler,5118,-34.5965361,138.7493889,12,40050490000,40469,4,South Australia,42030,Gawler (T),10640,52422.0,111
+132,Exeter Hotel,"152 Semaphore Rd, Exeter SA 5019, Australia",Exeter,5019,-34.8402778,138.4902778,40,40145460000,40423,4,South Australia,45890,Port Adelaide Enfield (C),5160,57257.0,67
+133,Feathers Hotel,"516 Glynburn Rd, Burnside SA 5066, Australia",Burnside,5066,-34.9376666,138.660327,40,40017980000,40192,4,South Australia,40700,Burnside (C),8116,79145.0,9
+134,Federal Hotel,"121 Main St, Peterborough SA 5422, Australia",Peterborough,5422,-32.9729562,138.8392708,5,40129031000,41130,4,South Australia,45540,Peterborough (DC),630,40611.0,304
+135,Federal Hotel,"25 Semaphore Rd, Semaphore SA 5019, Australia",Semaphore,5019,-34.8384105,138.4823449,40,40145110000,41316,4,South Australia,45890,Port Adelaide Enfield (C),5160,57257.0,67
+136,Federal Hotel Motel,"112 Commercial St E, Mount Gambier SA 5290, Australia",Mount Gambier,5290,-37.8307819,140.7871068,14,40095360000,40940,4,South Australia,44620,Mount Gambier (C),14686,49042.0,166
+137,Findon Hotel,"261 Grange Rd, Findon SA 5023, Australia",Findon,5023,-34.905069,138.536036,40,40034940000,40431,4,South Australia,41060,Charles Sturt (C),8977,47359.0,193
+138,First Commercial Inn,"29-31 Commercial Rd, Port Adelaide SA 5015, Australia",Port Adelaide,5015,-34.8434686,138.5050373,10,40150771000,41173,4,South Australia,45890,Port Adelaide Enfield (C),3526,52167.0,115
+139,Flagstaff Hotel,"1497-1503 Main S Rd, Darlington SA 5047, Australia",Darlington,5047,-35.0272222,138.5586111,40,40071850000,40347,4,South Australia,44060,Marion (C),4461,46797.0,203
+140,Flanagans Irish Pub,"6 Ferrers St, Mount Gambier SA 5290, Australia",Mount Gambier,5290,-37.82989,140.7818,40,40095360000,40940,4,South Australia,44620,Mount Gambier (C),14686,49042.0,166
+141,Frances Hotel,"Railway Terrace, Frances SA 5262, Australia",Frances,5262,-36.71294839999999,140.9540996,11,40101750000,40456,4,South Australia,45090,Naracoorte and Lucindale (DC),327,43289.0,270
+142,Franklin Harbour Hotel,"1 Main St, Cowell SA 5602, Australia",Cowell,5602,-33.6847222,136.9266667,10,40050022000,40316,4,South Australia,41960,Franklin Harbour (DC),696,46539.0,211
+143,Freeling Hotel,"1 Hanson St, Freeling SA 5372, Australia",Freeling,5372,-34.4543522,138.8087666,5,40064800000,40460,4,South Australia,43650,Light (RegC),1268,49761.0,152
+144,Gaslight Tavern,"36 Chief St, Brompton SA 5007, Australia",Brompton,5007,-34.9020433,138.5753425,15,40040810000,40165,4,South Australia,41060,Charles Sturt (C),4256,54415.0,91
+145,Gawler Arms Hotel,"102 Murray St, Gawler SA 5118, Australia",Gawler,5118,-34.5982162,138.7484723,40,40050490000,40469,4,South Australia,42030,Gawler (T),10640,52422.0,111
+146,General Havelock Hotel,"162 Hutt St, Adelaide SA 5000, Australia",Adelaide,5000,-34.9309723,138.612459,8,40000010000,40002,4,South Australia,40070,Adelaide (C),7785,63332.0,33
+147,Gepps Cross Ale House,"560 Main N Rd, Blair Athol SA 5084, Australia",Blair Athol,5084,-34.8484391,138.5997338,40,40142270000,40118,4,South Australia,45890,Port Adelaide Enfield (C),4683,41453.0,298
+148,German Arms,"69 Main St, Hahndorf SA 5245, Australia",Hahndorf,5245,-35.0280556,138.8088889,40,40092650000,40542,4,South Australia,44550,Mount Barker (DC),1972,56385.0,74
+149,Gilbert Street Hotel,"88 Gilbert St, Adelaide SA 5000, Australia",Adelaide,5000,-34.9343271,138.5970966,11,40000010000,40002,4,South Australia,40070,Adelaide (C),7785,63332.0,33
+150,Glendambo Hotel Motel,"104 Stuart Hwy, Glendambo SA 5710, Australia",Glendambo,5710,-30.9694398,135.7505586,8,40242760000,40499,4,South Australia,49399,Unincorporated SA,1263,58040.0,63
+151,Glenelg Footballers Club,"Brighton Rd, Glenelg East SA 5045, Australia",Glenelg East,5045,-34.9834945,138.5218572,40,40055000000,40501,4,South Australia,42600,Holdfast Bay (C),10400,64336.0,29
+152,Glenelg Jetty Hotel,"28 Jetty Rd, Glenelg SA 5045, Australia",Glenelg,5045,-34.980619,138.51268,40,40054740000,40500,4,South Australia,42600,Holdfast Bay (C),10400,64336.0,29
+153,Glynde Hotel,"492 Payneham Rd, Glynde SA 5070, Australia",Glynde,5070,-34.8897576,138.656252,40,40103810000,40510,4,South Australia,45290,Norwood Payneham St Peters (C),8398,54829.0,88
+154,Golden Fleece Hotel Gawler,"77 Murray St, Gawler SA 5118, Australia",Gawler,5118,-34.5998077,138.7494202,30,40050490000,40469,4,South Australia,42030,Gawler (T),10640,52422.0,111
+155,Golden Grain Hotel,"9 Railway Terrace S, Pinnaroo SA 5304, Australia",Pinnaroo,5304,-35.261518,140.90635,6,40178981000,41149,4,South Australia,47290,Southern Mallee (DC),557,44395.0,248
+156,Golden Grove Tavern,"Golden Grove Rd, Surrey Downs SA 5126, Australia",Surrey Downs,5126,-34.8059249,138.7011264,40,40181941000,41396,4,South Australia,47700,Tea Tree Gully (C),4375,51125.0,135
+157,Golden Port Tavern,"144 St Vincent St, Port Adelaide SA 5015, Australia",Port Adelaide,5015,-34.8449698,138.5034276,12,40150771000,41173,4,South Australia,45890,Port Adelaide Enfield (C),3526,52167.0,115
+158,Golden Wattle Hotel,"110 Pirie St, Adelaide SA 5000, Australia",Adelaide,5000,-34.9254328,138.6040014,20,40000010000,40002,4,South Australia,40070,Adelaide (C),7785,63332.0,33
+159,Goodwood Park Hotel,"75 Goodwood Rd, Goodwood SA 5034, Australia",Goodwood,5034,-34.9485746,138.5896127,40,40197520000,40515,4,South Australia,47980,Unley (C),6530,71525.0,17
+160,Goolwa Hotel,"7 Cadell St, Goolwa SA 5214, Australia",Goolwa,5214,-35.5024661,138.7830599,40,40008820000,40516,4,South Australia,40220,Alexandrina (DC),4071,40545.0,305
+161,Grand Hotel Millicent,"George St, Millicent SA 5280, Australia",Millicent,5280,-37.5948875,140.3539912,25,40205300000,40870,4,South Australia,48340,Wattle Range (DC),4016,50117.0,145
+162,Grand Junction Tavern,"174 Grand Jct Rd, Pennington SA 5013, Australia",Pennington,5013,-34.8514725,138.529976,40,40041911000,41123,4,South Australia,41060,Charles Sturt (C),5008,46204.0,217
+163,Grand Tasman Hotel,"94 Tasman Terrace, Port Lincoln SA 5606, Australia",Port Lincoln,5606,-34.7213506,135.8607966,40,40067580000,41187,4,South Australia,43710,Lower Eyre Peninsula (DC),8609,50977.0,136
+164,Grange Hotel,"489 Esplanade, Grange SA 5022, Australia",Grange,5022,-34.9023893,138.4895041,40,40030430000,40524,4,South Australia,41060,Charles Sturt (C),9987,68287.0,22
+165,Grays Inn,"63 Gawler St, Mount Barker SA 5251, Australia",Mount Barker,5251,-35.0661232,138.8607797,40,40092432000,40923,4,South Australia,44550,Mount Barker (DC),8596,51261.0,131
+166,Great Eastern Hotel,"71 North Terrace, Littlehampton SA 5250, Australia",Littlehampton,5250,-35.048652,138.8645751,9,40092731000,40763,4,South Australia,44550,Mount Barker (DC),2267,55975.0,79
+167,Great Northern Hotel,"34 Hallett Pl, Port Lincoln SA 5606, Australia",Port Lincoln,5606,-34.7192206,135.8547881,40,40067580000,41187,4,South Australia,43710,Lower Eyre Peninsula (DC),8609,50977.0,136
+168,Greenock Creek Tavern,"2 Murray St, Greenock SA 5360, Australia",Greenock,5360,-34.4577446,138.9272308,8,40064390000,40530,4,South Australia,43650,Light (RegC),765,53587.0,102
+169,Greyhound Racing SA,"55 Cardigan St, Angle Park SA 5010, Australia",Angle Park,5010,-34.8562758,138.5623256,40,40149100000,40030,4,South Australia,45890,Port Adelaide Enfield (C),2602,43250.0,272
+170,Griffins Head,"38 Hindmarsh Square, Adelaide SA 5000, Australia",Adelaide,5000,-34.9238039,138.6066325,28,40000010000,40002,4,South Australia,40070,Adelaide (C),7785,63332.0,33
+171,Grosvenor Hotel,"40 Ocean St, Victor Harbor SA 5211, Australia",Victor Harbor,5211,-35.5539556,138.6231236,28,40199800000,41489,4,South Australia,48050,Victor Harbor (C),7775,40525.0,306
+172,Gumeracha Hotel,"30 Albert St, Gumeracha SA 5233, Australia",Gumeracha,5233,-34.8238694,138.8848083,6,40006801000,40536,4,South Australia,40120,Adelaide Hills (DC),864,53784.0,99
+173,Hackney Hotel,"95 Hackney Rd, Hackney SA 5069, Australia",Hackney,5069,-34.9102695,138.6132226,40,40106690000,40541,4,South Australia,45290,Norwood Payneham St Peters (C),5370,81058.0,7
+174,Hahndorf Old Mill,"98 Main Street, Hahndorf SA 5245, Australia",Hahndorf,5245,-35.0266623,138.8084123,40,40092650000,40542,4,South Australia,44550,Mount Barker (DC),1972,56385.0,74
+175,Halfway Hotel Beverley,"668 Port Rd, Beverley SA 5009, Australia",Beverley,5009,-34.8901858,138.5484513,40,40034911000,40100,4,South Australia,41060,Charles Sturt (C),2902,49743.0,153
+176,Hamley Bridge Hotel,"17 Light St, Hamley Bridge SA 5401, Australia",Hamley Bridge,5401,-34.3571733,138.6831748,8,40064780000,40552,4,South Australia,43650,Light (RegC),437,47659.0,191
+177,Hampstead Hotel,"143 North East Road, Collinswood SA 5081, Australia",Collinswood,5081,-34.8842763,138.6197488,39,40159970000,40284,4,South Australia,46510,Prospect (C),6077,92916.0,3
+178,Hannahville Hotel,"30 Gibson St, Port Augusta SA 5700, Australia",Port Augusta,5700,-32.4941667,137.7619444,20,40152541000,41175,4,South Australia,46090,Port Augusta (C),5427,52060.0,117
+179,Hawker Hotel Motel,"80 Elder Terrace, Hawker SA 5434, Australia",Hawker,5434,-31.8864713,138.4206863,9,40049590000,40566,4,South Australia,41830,Flinders Ranges (DC),237,48448.0,178
+180,Hendon Hotel,"120 Tapleys Hill Rd, Royal Park SA 5014, Australia",Royal Park,5014,-34.8744882,138.511886,40,40038100000,41269,4,South Australia,41060,Charles Sturt (C),6570,49462.0,155
+181,Henley Hotel,"157 Esplanade, Henley Beach SA 5022, Australia",Henley Beach,5022,-34.9255218,138.4953461,40,40030450000,40578,4,South Australia,41060,Charles Sturt (C),9987,68287.0,22
+182,Highbury Hotel,"1017 Lower North East Rd, Highbury SA 5089, Australia",Highbury,5089,-34.8521997,138.7019131,40,40184360000,40581,4,South Australia,47700,Tea Tree Gully (C),4275,54869.0,87
+183,Highlander Hotel,"647 North East Road, Gilles Plains SA 5086, Australia",Gilles Plains,5086,-34.8521843,138.665451,40,40138240000,40490,4,South Australia,45890,Port Adelaide Enfield (C),8755,48733.0,170
+184,Highway Inn,"290 Anzac Hwy, Plympton SA 5038, Australia",Plympton,5038,-34.9647222,138.5544444,40,40207460000,41153,4,South Australia,48410,West Torrens (C),9478,48463.0,177
+185,Hilton Hotel,"264 South Rd, Hilton SA 5033, Australia",Hilton,5033,-34.9316823,138.5699558,40,40207000000,40589,4,South Australia,48410,West Torrens (C),4625,48510.0,176
+186,Holdfast Hotel,"83 Brighton Rd, Glenelg South SA 5045, Australia",Glenelg South,5045,-34.98513519999999,138.5201415,40,40054860000,40503,4,South Australia,42600,Holdfast Bay (C),10400,64336.0,29
+187,Hope Inn Hotel,"348 Port Rd, Hindmarsh SA 5007, Australia",Hindmarsh,5007,-34.9024706,138.5671539,40,40035440000,40591,4,South Australia,41060,Charles Sturt (C),4256,54415.0,91
+188,Hotel Arno,"Arno Bay SA 5603, Australia",Arno Bay,5603,-33.9164758,136.5728159,8,40045490000,40041,4,South Australia,41190,Cleve (DC),269,49070.0,164
+189,Hotel Augusta,"3 Loudon Rd, Port Augusta West SA 5700, Australia",Port Augusta West,5700,-32.4852654,137.7582926,17,40152731000,41176,4,South Australia,46090,Port Augusta (C),5427,52060.0,117
+190,Hotel Balhannah,"78 Onkaparinga Valley Rd, Balhannah SA 5242, Australia",Balhannah,5242,-34.9905943,138.8264515,19,40007450000,40065,4,South Australia,40120,Adelaide Hills (DC),1033,60198.0,50
+191,Hotel Barker,"32 Gawler St, Mount Barker SA 5251, Australia",Mount Barker,5251,-35.0672338,138.8590251,40,40092432000,40923,4,South Australia,44550,Mount Barker (DC),8596,51261.0,131
+192,Hotel Bay View,"11-13 Forsyth St, Whyalla SA 5600, Australia",Whyalla,5600,-33.0342953,137.5841574,40,40214945200,41571,4,South Australia,48540,Whyalla (C),3504,60315.0,49
+193,Hotel Boston,"19-21 King St, Port Lincoln SA 5606, Australia",Port Lincoln,5606,-34.7224086,135.865463,40,40067580000,41187,4,South Australia,43710,Lower Eyre Peninsula (DC),8609,50977.0,136
+194,Hotel Central,"41 Torrens Rd, Riverton SA 5412, Australia",Riverton,5412,-34.1596551,138.7473146,10,40044540000,41250,4,South Australia,41140,Clare and Gilbert Valleys (DC),620,47040.0,201
+195,Hotel Commonwealth,"73 Commercial Rd, Port Augusta SA 5700, Australia",Port Augusta,5700,-32.493089,137.762865,29,40152541000,41175,4,South Australia,46090,Port Augusta (C),5427,52060.0,117
+196,Hotel Crown,"2 Ocean St, Victor Harbor SA 5211, Australia",Victor Harbor,5211,-35.55555560000001,138.6236111,40,40199800000,41489,4,South Australia,48050,Victor Harbor (C),7775,40525.0,306
+197,Hotel Elliot,"35 The Strand, Port Elliot SA 5212, Australia",Port Elliot,5212,-35.532177,138.6813354,10,40008440000,41180,4,South Australia,40220,Alexandrina (DC),1161,38328.0,318
+198,Hotel Enfield,"184 Hampstead Rd, Clearview SA 5085, Australia",Clearview,5085,-34.8653974,138.6183041,40,40142340000,40264,4,South Australia,45890,Port Adelaide Enfield (C),10964,50432.0,141
+199,Hotel Excelsior Brompton,"110 Coglin St, Brompton SA 5007, Australia",Brompton,5007,-34.8962556,138.5752722,40,40040810000,40165,4,South Australia,41060,Charles Sturt (C),4256,54415.0,91
+200,Hotel Eyre,"39 Playford Ave, Whyalla Playford SA 5600, Australia",Whyalla Playford,5600,-33.029167,137.568069,40,40214953500,41575,4,South Australia,48540,Whyalla (C),3504,60315.0,49
+201,Hotel Finsbury,"49 Hanson Rd, Woodville North SA 5012, Australia",Woodville North,5012,-34.8693352,138.547821,40,40040982000,41630,4,South Australia,41060,Charles Sturt (C),5146,41735.0,294
+202,Hotel Loxton,"45 East Terrace, Loxton SA 5333, Australia",Loxton,5333,-34.4499157,140.5687946,40,40067840000,40782,4,South Australia,43790,Loxton Waikerie (DC),3412,45893.0,222
+203,Hotel Maitland,"33 Robert St, Maitland SA 5573, Australia",Maitland,5573,-34.3737675,137.6733604,10,40215072300,40799,4,South Australia,48830,Yorke Peninsula (DC),1090,54225.0,95
+204,Hotel Mclaren,"208 Main Rd, McLaren Vale SA 5171, Australia",McLaren Vale,5171,-35.2133527,138.5353793,30,40110992000,40843,4,South Australia,45340,Onkaparinga (C),3785,50893.0,137
+205,Hotel Peterborough,"2A Railway St, Peterborough SA 5422, Australia",Peterborough,5422,-32.970872,138.835797,16,40129031000,41130,4,South Australia,45540,Peterborough (DC),630,40611.0,304
+206,Hotel Richmond,"128 Rundle Mall, Adelaide SA 5000, Australia",Adelaide,5000,-34.9225,138.6041667,40,40000010000,40002,4,South Australia,40070,Adelaide (C),7785,63332.0,33
+207,Hotel Risdon,"22 Moppett Rd, Port Pirie West SA 5540, Australia",Port Pirie West,5540,-33.1851269,138.0016415,40,40156960000,41197,4,South Australia,46450,Port Pirie City and Dists (M),7028,49192.0,161
+208,Hotel Royal,"180 Henley Beach Rd, Torrensville SA 5031, Australia",Torrensville,5031,-34.9238889,138.5608333,40,40207140000,41450,4,South Australia,48410,West Torrens (C),5739,52684.0,107
+209,Hotel Seaton,"253 Tapleys Hill Rd, Seaton SA 5023, Australia",Seaton,5023,-34.890395,138.513917,40,40038030000,41307,4,South Australia,41060,Charles Sturt (C),8977,47359.0,193
+210,Hotel Spencer,"1 Forsyth St, Whyalla SA 5600, Australia",Whyalla,5600,-33.0348889,137.5851845,20,40214945200,41571,4,South Australia,48540,Whyalla (C),3504,60315.0,49
+211,Hotel Sussex,"68 Walkerville Terrace, Walkerville SA 5081, Australia",Walkerville,5081,-34.897431,138.615118,38,40203590000,41498,4,South Australia,48260,Walkerville (M),6077,92916.0,3
+212,Hotel Victory,"Old Sellicks Hill Rd, Sellicks Hill SA 5174, Australia",Sellicks Hill,5174,-35.3294311,138.4737852,30,40111440000,41315,4,South Australia,45340,Onkaparinga (C),1511,45521.0,229
+213,Hotel Wright Street ,"130 Wright St, Adelaide SA 5000, Australia",Adelaide,5000,-34.9316525,138.5953152,28,40000010000,40002,4,South Australia,40070,Adelaide (C),7785,63332.0,33
+214,Hyde Park Tavern,"187 King William Rd, Hyde Park SA 5061, Australia",Hyde Park,5061,-34.9556325,138.6002675,40,40197480000,40611,4,South Australia,47980,Unley (C),6587,93871.0,2
+215,International Hotel Port Pirie,"40 Ellen St, Port Pirie SA 5540, Australia",Port Pirie,5540,-33.1751865,138.0098419,32,40156882000,41195,4,South Australia,46450,Port Pirie City and Dists (M),7028,49192.0,161
+216,Islanders Tavern,"Tolarno Dr, Hindmarsh Island SA 5214, Australia",Hindmarsh Island,5214,-35.513502,138.7989256,17,40008450000,40592,4,South Australia,40220,Alexandrina (DC),4071,40545.0,305
+217,Jackpots On Pulteney,"471 Pulteney St, Adelaide SA 5000, Australia",Adelaide,5000,-34.9350389,138.6061926,40,40000010000,40002,4,South Australia,40070,Adelaide (C),7785,63332.0,33
+218,Jackpots on Hindley,"65 Hindley St, Adelaide SA 5000, Australia",Adelaide,5000,-34.9235534,138.5969471,30,40000010000,40002,4,South Australia,40070,Adelaide (C),7785,63332.0,33
+219,James Place Hotel,"21 James Pl, Adelaide SA 5000, Australia",Adelaide,5000,-34.923646,138.600582,33,40000010000,40002,4,South Australia,40070,Adelaide (C),7785,63332.0,33
+220,Jamestown Hotel,"79 Ayr St, Jamestown SA 5491, Australia",Jamestown,5491,-33.2057381,138.6035072,9,40102881000,40629,4,South Australia,45120,Northern Areas (DC),1091,53724.0,100
+221,Jens Town Hall Hotel,"40 Commercial St E, Mount Gambier SA 5290, Australia",Mount Gambier,5290,-37.8290661,140.7819503,40,40095360000,40940,4,South Australia,44620,Mount Gambier (C),14686,49042.0,166
+222,Joiners Arms,"9 Manton St, Hindmarsh SA 5007, Australia",Hindmarsh,5007,-34.9079757,138.5717178,26,40035440000,40591,4,South Australia,41060,Charles Sturt (C),4256,54415.0,91
+223,Junction Hotel,"121 Main St, Peterborough SA 5422, Australia",Peterborough,5422,-32.9729562,138.8392708,10,40129031000,41130,4,South Australia,45540,Peterborough (DC),630,40611.0,304
+224,Kadina Hotel,"5554/29 Taylor St, Kadina SA 5554, Australia",Kadina,5554,-33.9623769,137.7125523,40,40046191000,40640,4,South Australia,41560,Copper Coast (DC),2819,51863.0,119
+225,Karoonda Hotel,"15 Railway Terrace, Karoonda SA 5307, Australia",Karoonda,5307,-35.094449,139.8962359,5,40062340000,40664,4,South Australia,43080,Karoonda East Murray (DC),329,42512.0,284
+226,Keith Hotel,"2 Makin St, Keith SA 5267, Australia",Keith,5267,-36.0990917,140.3538827,27,40180030000,40668,4,South Australia,47630,Tatiara (DC),1277,44711.0,246
+227,Kensington Hotel,"23 Regent St, Kensington SA 5068, Australia",Kensington,5068,-34.9216667,138.6452778,40,40106150000,40671,4,South Australia,45290,Norwood Payneham St Peters (C),7750,72335.0,16
+228,Kent Town Hotel,"76 Rundle St, Kent Town SA 5067, Australia",Kent Town,5067,-34.9197468,138.6202876,30,40106100000,40674,4,South Australia,45290,Norwood Payneham St Peters (C),6601,75339.0,13
+229,Kentish,"23 Stanley St, North Adelaide SA 5006, Australia",North Adelaide,5006,-34.904678,138.609201,8,40000080000,41029,4,South Australia,40070,Adelaide (C),4183,90092.0,5
+230,Kersbrook Tavern,"49 Scott St, Kersbrook SA 5231, Australia",Kersbrook,5231,-34.78008,138.8547105,10,40006770000,40678,4,South Australia,40120,Adelaide Hills (DC),699,60700.0,44
+231,Kimba Gateway Hotel,"40 High St, Kimba SA 5641, Australia",Kimba,5641,-33.139111,136.4202726,12,40062650000,40688,4,South Australia,43220,Kimba (DC),651,47350.0,194
+232,Kingsford Hotel,"32 Murray St, Gawler SA 5118, Australia",Gawler,5118,-34.6009715,138.7491416,40,40050490000,40469,4,South Australia,42030,Gawler (T),10640,52422.0,111
+233,Lakes Resort,"141 Brebner Dr, West Lakes SA 5021, Australia",West Lakes,5021,-34.8802146,138.4886551,40,40030670000,41554,4,South Australia,41060,Charles Sturt (C),3932,58756.0,57
+234,Lameroo Hotel Motel,"80 Railway Terrace N, Lameroo SA 5302, Australia",Lameroo,5302,-35.32882,140.518073,6,40178870000,40740,4,South Australia,47290,Southern Mallee (DC),532,49949.0,148
+235,Land Of Promise Hotel,"172 Port Rd, Hindmarsh SA 5007, Australia",Hindmarsh,5007,-34.905793,138.572062,6,40035440000,40591,4,South Australia,41060,Charles Sturt (C),4256,54415.0,91
+236,Largs Pier,"198 Esplanade, Largs Bay SA 5016, Australia",Largs Bay,5016,-34.8255995,138.4865626,40,40144880000,40743,4,South Australia,45890,Port Adelaide Enfield (C),5125,55733.0,82
+237,Leitchs Roseworthy Hotel,"3 Main N Rd, Roseworthy SA 5371, Australia",Roseworthy,5371,-34.53400999999999,138.75009,8,40064470000,41264,4,South Australia,43650,Light (RegC),863,50251.0,144
+238,Lincoln South Club,"44 Tennant St, Port Lincoln SA 5606, Australia",Port Lincoln,5606,-34.7338809,135.8484153,20,40067580000,41187,4,South Australia,43710,Lower Eyre Peninsula (DC),8609,50977.0,136
+239,Links Hotel Motel,"346 Tapleys Hill Rd, Seaton SA 5023, Australia",Seaton,5023,-34.9015076,138.5138532,40,40038030000,41307,4,South Australia,41060,Charles Sturt (C),8977,47359.0,193
+240,Lockleys Hotel,"493 Henley Beach Rd, Fulham SA 5024, Australia",Fulham,5024,-34.9265832,138.5189063,40,40210750000,40462,4,South Australia,48410,West Torrens (C),8766,56214.0,78
+241,Lonsdale Hotel,"25/27 Sherriffs Rd, Lonsdale SA 5160, Australia",Lonsdale,5160,-35.1054515,138.5051966,40,40079990000,40772,4,South Australia,44060,Marion (C),128,53950.0,97
+242,Lord Melbourne Hotel,"63 Melbourne St, North Adelaide SA 5006, Australia",North Adelaide,5006,-34.90646,138.60909,20,40000080000,41029,4,South Australia,40070,Adelaide (C),4183,90092.0,5
+243,Lower Light Hotel,"33 Port Wakefield Rd, Lower Light SA 5501, Australia",Lower Light,5501,-34.5319949,138.4364426,4,40069130000,40780,4,South Australia,40150,Adelaide Plains (DC),4007,51241.0,132
+244,Loxton Club,"27-29 Bookpurnong Terrace, Loxton SA 5333, Australia",Loxton,5333,-34.4505608,140.5746365,27,40067840000,40782,4,South Australia,43790,Loxton Waikerie (DC),3412,45893.0,222
+245,Lucindale Hotel,"20 Musgrave Ave, Lucindale SA 5272, Australia",Lucindale,5272,-36.9727797,140.3683306,6,40101631000,40784,4,South Australia,45090,Naracoorte and Lucindale (DC),533,54532.0,89
+246,Lyndoch Hotel,"1 Gilbert St, Lyndoch SA 5351, Australia",Lyndoch,5351,-34.6016783,138.8907584,15,40014300000,40787,4,South Australia,40310,Barossa (DC),3490,51645.0,123
+247,Lyrup Community Club,"Downer Ave, Lyrup SA 5343, Australia",Lyrup,5343,-34.256177,140.6513717,8,40162380000,40789,4,South Australia,46670,Renmark Paringa (DC),2714,45504.0,230
+248,Macclesfield Hotel,"31 Venables St, Macclesfield SA 5153, Australia",Macclesfield,5153,-35.1727101,138.8367788,7,40011320000,40791,4,South Australia,40220,Alexandrina (DC),4039,60424.0,47
+249,Macs Hotel,"21 Bay Rd, Mount Gambier SA 5290, Australia",Mount Gambier,5290,-37.8302778,140.78,32,40095360000,40940,4,South Australia,44620,Mount Gambier (C),14686,49042.0,166
+250,Maid Of Auckland Hotel,"926 South Rd, Edwardstown SA 5039, Australia",Edwardstown,5039,-34.9753815,138.5733298,40,40076351000,40391,4,South Australia,44060,Marion (C),5093,51752.0,120
+251,Maid and Magpie Hotel,"1 Magill Rd, Stepney SA 5069, Australia",Stepney,5069,-34.915477,138.6231875,40,40106811000,41369,4,South Australia,45290,Norwood Payneham St Peters (C),5370,81058.0,7
+252,Mallala Hotel,"1 Adelaide Rd, Mallala SA 5502, Australia",Mallala,5502,-34.4383333,138.51,6,40069330000,40802,4,South Australia,40150,Adelaide Plains (DC),864,54300.0,94
+253,Mannum Club,"66 Randell St, Mannum SA 5238, Australia",Mannum,5238,-34.9129448,139.3130646,22,40082722000,40811,4,South Australia,44210,Mid Murray (DC),2021,40685.0,303
+254,Mannum Hotel,"15 Randell St, Mannum SA 5238, Australia",Mannum,5238,-34.9107511,139.3154897,7,40082722000,40811,4,South Australia,44210,Mid Murray (DC),2021,40685.0,303
+255,Mansfield Park Hotel,"426 Grand Jct Rd, Mansfield Park SA 5012, Australia",Mansfield Park,5012,-34.8506642,138.5523795,40,40148540000,40813,4,South Australia,45890,Port Adelaide Enfield (C),5146,41735.0,294
+256,Mansions Tavern,"21 Pulteney St, Adelaide SA 5000, Australia",Adelaide,5000,-34.9220288,138.6052926,40,40000010000,40002,4,South Australia,40070,Adelaide (C),7785,63332.0,33
+257,Marina Hotel,"13 Jubilee Dr, Port Lincoln SA 5606, Australia",Port Lincoln,5606,-34.742936,135.8744595,40,40067580000,41187,4,South Australia,43710,Lower Eyre Peninsula (DC),8609,50977.0,136
+258,Marion Hotel,"849 Marion Rd, Mitchell Park SA 5043, Australia",Mitchell Park,5043,-35.0041392,138.5579908,40,40071941000,40886,4,South Australia,44060,Marion (C),9874,46835.0,202
+259,Marion Sports and Community Club,"262 Sturt Rd, Marion SA 5043, Australia",Marion,5043,-35.0165296,138.5525547,40,40072050000,40821,4,South Australia,44060,Marion (C),9874,46835.0,202
+260,Marree Hotel,"Railway Terrace S, Marree SA 5733, Australia",Marree,5733,-29.6485142,138.0645605,8,40227070000,40829,4,South Australia,49399,Unincorporated SA,53,59081.0,56
+261,Marryatville Hotel,"239 Kensington Rd, Marryatville SA 5068, Australia",Marryatville,5068,-34.926163,138.649888,40,40106160000,40830,4,South Australia,45290,Norwood Payneham St Peters (C),7750,72335.0,16
+262,Mawson Lakes Hotel,"10 Main St, Mawson Lakes SA 5095, Australia",Mawson Lakes,5095,-34.809918,138.617375,40,40177360000,40835,4,South Australia,47140,Salisbury (C),11753,51433.0,129
+263,Maylands Hotel,"67 Phillis St, Maylands SA 5069, Australia",Maylands,5069,-34.9101697,138.6374505,40,40106290000,40837,4,South Australia,45290,Norwood Payneham St Peters (C),5370,81058.0,7
+264,Mccracken Country Club,"McCracken Dr, Victor Harbor SA 5211, Australia",Victor Harbor,5211,-35.5340943,138.6330065,20,40199800000,41489,4,South Australia,48050,Victor Harbor (C),7775,40525.0,306
+265,Meadows Hotel,"32 Mawson Rd, Meadows SA 5201, Australia",Meadows,5201,-35.1824868,138.7556181,15,40094841000,40844,4,South Australia,44550,Mount Barker (DC),1295,48536.0,175
+266,Meningie Hotel,"62 Princes Hwy, Meningie SA 5264, Australia",Meningie,5264,-35.68841099999999,139.338418,12,40193000000,40851,4,South Australia,47800,The Coorong (DC),749,43503.0,267
+267,Metropolitan Hotel,"46 Grote St, Adelaide SA 5000, Australia",Adelaide,5000,-34.9285179,138.5974193,30,40000010000,40002,4,South Australia,40070,Adelaide (C),7785,63332.0,33
+268,Mick OShea Irish Pub,"Main S Rd, Hackham SA 5163, Australia",Hackham,5163,-35.1574649,138.5209123,40,40109100000,40538,4,South Australia,45340,Onkaparinga (C),6828,43205.0,273
+269,Middleton Tavern,"37 Victor Harbor-Goolwa Rd, Middleton SA 5213, Australia",Middleton,5213,-35.510601,138.705831,38,40008590000,40862,4,South Australia,40220,Alexandrina (DC),711,51649.0,122
+270,Midway Tavern,"212 Midway Rd, Elizabeth Downs SA 5113, Australia",Elizabeth Downs,5113,-34.7063344,138.6920906,40,40129720000,40394,4,South Australia,45680,Playford (C),6371,38364.0,317
+271,Mile End Hotel,"30 Henley Beach Rd, Mile End SA 5031, Australia",Mile End,5031,-34.923225,138.575794,40,40207020000,40866,4,South Australia,48410,West Torrens (C),5739,52684.0,107
+272,Millicent and District Community Club,"28 Davenport St, Millicent SA 5280, Australia",Millicent,5280,-37.5958113,140.3528782,11,40205300000,40870,4,South Australia,48340,Wattle Range (DC),4016,50117.0,145
+273,Minlaton Hotel/Motel,"26 Main St, Minlaton SA 5575, Australia",Minlaton,5575,-34.7716948,137.5955843,14,40215002000,40879,4,South Australia,48830,Yorke Peninsula (DC),1207,42452.0,285
+274,Minnipa Hotel,"19 Railway Terrace, Minnipa SA 5654, Australia",Minnipa,5654,-32.8548529,135.1547259,9,40063902000,40880,4,South Australia,48640,Wudinna (DC),102,46666.0,207
+275,Modbury Plaza Hotel,"989 North East Road, Modbury SA 5092, Australia",Modbury,5092,-34.8311448,138.6882188,40,40188841000,40891,4,South Australia,47700,Tea Tree Gully (C),9862,47216.0,195
+276,Monash Club,"16 Madison Rd, Monash SA 5342, Australia",Monash,5342,-34.23543799999999,140.557514,18,40017392000,40897,4,South Australia,40520,Berri and Barmera (DC),540,41487.0,297
+277,Moonta Hotel,"1 George St, Moonta SA 5558, Australia",Moonta,5558,-34.0692702,137.5923192,22,40046330000,40906,4,South Australia,41560,Copper Coast (DC),2252,43667.0,264
+278,Moorook and District Club,"Moorook South SA 5332, Australia",Moorook South,5332,-34.2863661,140.3672107,9,40067940000,40912,4,South Australia,43790,Loxton Waikerie (DC),213,48269.0,181
+279,Morphett Arms Hotel,"138 Morphett Rd, Glengowrie SA 5044, Australia",Glengowrie,5044,-34.9871597,138.5380707,40,40076320000,40504,4,South Australia,44060,Marion (C),6854,64389.0,27
+280,Morphettville Racecourse,"470 Anzac Hwy, Camden Park SA 5038, Australia",Camden Park,5038,-34.9741572,138.5401321,40,40211010000,40210,4,South Australia,48410,West Torrens (C),9478,48463.0,177
+281,Mount Compass Tavern,"36 Victor Harbor Rd, Mount Compass SA 5210, Australia",Mount Compass,5210,-35.347158,138.620818,20,40008461000,40933,4,South Australia,40220,Alexandrina (DC),1117,48824.0,168
+282,Mount Gambier Hotel,"2 Commercial St W, Mount Gambier SA 5290, Australia",Mount Gambier,5290,-37.82812620000001,140.7805578,40,40095360000,40940,4,South Australia,44620,Mount Gambier (C),14686,49042.0,166
+283,Mount Pleasant Hotel Motel,"43 Melrose St, Mount Pleasant SA 5235, Australia",Mount Pleasant,5235,-34.774692,139.048529,6,40014110000,40952,4,South Australia,40310,Barossa (DC),1373,45163.0,238
+284,Mount Remarkable Hotel,"14 Stuart St, Melrose SA 5483, Australia",Melrose,5483,-32.8257098,138.1877027,6,40098680000,40847,4,South Australia,44830,Mount Remarkable (DC),201,46390.0,214
+285,Mount Torrens Hotel,"1 Townsend St, Mount Torrens SA 5244, Australia",Mount Torrens,5244,-34.875619,138.9588631,5,40007021000,40956,4,South Australia,40120,Adelaide Hills (DC),2467,51561.0,126
+286,Murray Bridge Golf Club,"1 Ritter St, Murray Bridge SA 5253, Australia",Murray Bridge,5253,-35.127355,139.2663076,12,40099410000,40979,4,South Australia,45040,Murray Bridge (RC),9833,41308.0,300
+287,Murray Bridge Hotel,"20 Sixth St, Murray Bridge SA 5253, Australia",Murray Bridge,5253,-35.1178589,139.2758789,40,40099410000,40979,4,South Australia,45040,Murray Bridge (RC),9833,41308.0,300
+288,Murray Bridge and District Community Club,"1 Murray Cod Dv, Murray Bridge SA 5253, Australia",Murray Bridge,5253,-35.119801,139.282985,33,40099410000,40979,4,South Australia,45040,Murray Bridge (RC),9833,41308.0,300
+289,Mylk Bar,"57 Flinders St, Adelaide SA 5000, Australia",Adelaide,5000,-34.9271469,138.6028137,16,40000010000,40002,4,South Australia,40070,Adelaide (C),7785,63332.0,33
+290,Naracoorte Hotel,"73 Ormerod St, Naracoorte SA 5271, Australia",Naracoorte,5271,-36.9543346,140.7436689,32,40101641000,41002,4,South Australia,45090,Naracoorte and Lucindale (DC),4907,45760.0,226
+291,New Dublin Hotel,"Lot 15 Old Port Wakefield Rd, Dublin SA 5501, Australia",Dublin,5501,-34.453213,138.3548084,8,40069490000,40370,4,South Australia,40150,Adelaide Plains (DC),4007,51241.0,132
+292,New York Bar and Grill - Marion,"Westfield Marion,Shop 2027/297 Diagonal Road, Oaklands Park SA 5046, Australia",Oaklands Park,5046,-35.016421,138.544634,40,40071960000,41057,4,South Australia,44060,Marion (C),5134,49803.0,151
+293,Newmarket Hotel,"132 Commercial Rd, Port Adelaide SA 5015, Australia",Port Adelaide,5015,-34.8462525,138.5063945,40,40150771000,41173,4,South Australia,45890,Port Adelaide Enfield (C),3526,52167.0,115
+294,Normanville Hotel,"46 Main Rd, Normanville SA 5204, Australia",Normanville,5204,-35.4474017,138.3178509,31,40215000400,41028,4,South Australia,48750,Yankalilla (DC),1454,39762.0,309
+295,North Kapunda Hotel,"50 Main St, Kapunda SA 5373, Australia",Kapunda,5373,-34.340719,138.915612,10,40064402000,40660,4,South Australia,43650,Light (RegC),1844,48057.0,187
+296,North Laura Hotel,"25 Mill St, Laura SA 5480, Australia",Laura,5480,-33.178163,138.299103,10,40103181000,40745,4,South Australia,45120,Northern Areas (DC),479,45056.0,242
+297,Northern Tavern,"269 Main N Rd, Sefton Park SA 5083, Australia",Sefton Park,5083,-34.8740048,138.6025352,40,40142401000,41313,4,South Australia,45890,Port Adelaide Enfield (C),4452,57029.0,72
+298,Northgate Community and Sports Club,"Duncan Fraser Reserve, Rowe Ave, Northfield SA 5085, Australia",Northfield,5085,-34.853613,138.623405,8,40138050000,41041,4,South Australia,45890,Port Adelaide Enfield (C),10964,50432.0,141
+299,Norwood Hotel,"97 The Parade, Norwood SA 5067, Australia",Norwood,5067,-34.9211708,138.6324128,40,40106130000,41044,4,South Australia,45290,Norwood Payneham St Peters (C),6601,75339.0,13
+300,OG Hotel,"246 North East Road, Klemzig SA 5087, Australia",Klemzig,5087,-34.8747111,138.6327332,40,40138260000,40697,4,South Australia,45890,Port Adelaide Enfield (C),6421,48571.0,173
+301,Oakbank Hotel,"207 Onkaparinga Valley Rd, Oakbank SA 5243, Australia",Oakbank,5243,-34.9846612,138.8417704,15,40007471000,41054,4,South Australia,40120,Adelaide Hills (DC),593,60795.0,43
+302,Old Bakehouse,"10 Queen St, Williamstown SA 5351, Australia",Williamstown,5351,-34.6714043,138.8906194,15,40014030000,41588,4,South Australia,40310,Barossa (DC),3490,51645.0,123
+303,Old Bush Inn,"51 High St, Willunga SA 5172, Australia",Willunga,5172,-35.2741507,138.5586372,10,40110930000,41595,4,South Australia,45340,Onkaparinga (C),2565,50498.0,140
+304,Old Bushman Hotel,"10 Cowan St, Gawler SA 5118, Australia",Gawler,5118,-34.5958793,138.7477065,16,40050490000,40469,4,South Australia,42030,Gawler (T),10640,52422.0,111
+305,Old Noarlunga Hotel,"38 Patapinda Rd, Old Noarlunga SA 5168, Australia",Old Noarlunga,5168,-35.1824932,138.5012597,40,40111112000,41061,4,South Australia,45340,Onkaparinga (C),2801,44916.0,243
+306,Old Spot Hotel,"1955 Main N Rd, Salisbury Heights SA 5109, Australia",Salisbury Heights,5109,-34.7548996,138.6792425,40,40170590000,41278,4,South Australia,47140,Salisbury (C),10459,46565.0,210
+307,Opal Inn,"71 Hutchison St, Coober Pedy SA 5723, Australia",Coober Pedy,5723,-29.0149668,134.7538908,40,40045740000,40293,4,South Australia,41330,Coober Pedy (DC),831,44697.0,247
+308,Owen Arms Hotel,"2 Main St, Owen SA 5460, Australia",Owen,5460,-34.2702425,138.5463816,5,40202272000,41075,4,South Australia,48130,Wakefield (DC),360,48712.0,171
+309,Para Hills Community Club,"360-370 Bridge Rd, Para Hills SA 5096, Australia",Para Hills,5096,-34.8100825,138.6453638,40,40173161000,41085,4,South Australia,47140,Salisbury (C),7504,47055.0,200
+310,Paradise Hotel,"700 Lower North East Rd, Paradise SA 5075, Australia",Paradise,5075,-34.8719823,138.6718299,40,40023650000,41090,4,South Australia,40910,Campbelltown (C),6185,49424.0,156
+311,Parafield Gardens Community Club,"65 Shepherdson Rd, Parafield Gardens SA 5108, Australia",Parafield Gardens,5108,-34.7830921,138.6116028,40,40164450000,41092,4,South Australia,47140,Salisbury (C),19239,43160.0,274
+312,Paringa Hotel,"Sturt Hwy, Paringa SA 5340, Australia",Paringa,5340,-34.1808618,140.7835361,30,40162390000,41099,4,South Australia,46670,Renmark Paringa (DC),815,44230.0,253
+313,Park Hotel,"163 Commercial St W, Mount Gambier SA 5290, Australia",Mount Gambier,5290,-37.8258573,140.7721433,40,40095360000,40940,4,South Australia,44620,Mount Gambier (C),14686,49042.0,166
+314,Parkside Hotel,"142 Glen Osmond Rd, Parkside SA 5063, Australia",Parkside,5063,-34.9461098,138.6243968,35,40194830000,41102,4,South Australia,47980,Unley (C),7603,68387.0,21
+315,Pastoral Hotel Motel,"17 Stirling Rd, Port Augusta SA 5700, Australia",Port Augusta,5700,-32.4968904,137.769053,35,40152541000,41175,4,South Australia,46090,Port Augusta (C),5427,52060.0,117
+316,Payneham Tavern,"319 Payneham Rd, Payneham SA 5070, Australia",Payneham,5070,-34.8984369,138.6367733,40,40103970000,41110,4,South Australia,45290,Norwood Payneham St Peters (C),8398,54829.0,88
+317,Penneshaw Hotel,"North Terrace, Penneshaw SA 5222, Australia",Penneshaw,5222,-35.7173844,137.9364891,8,40060470000,41122,4,South Australia,42750,Kangaroo Island (DC),393,42950.0,278
+318,Pier Hotel,"33 Tasman Terrace, Port Lincoln SA 5606, Australia",Port Lincoln,5606,-34.7187538,135.8562164,40,40067580000,41187,4,South Australia,43710,Lower Eyre Peninsula (DC),8609,50977.0,136
+319,Pier Hotel - Milang,"Daranda Terrace & Lang St, Milang SA 5256, Australia",Milang,5256,-35.4073249,138.9726127,12,40011162000,40865,4,South Australia,40220,Alexandrina (DC),619,38695.0,315
+320,Pinnaroo Hotel,"22 Railway Terrace S, Pinnaroo SA 5304, Australia",Pinnaroo,5304,-35.2604972,140.9088222,4,40178981000,41149,4,South Australia,47290,Southern Mallee (DC),557,44395.0,248
+321,Playford Bowling Club Incorporated,"Goodman Rd, Elizabeth SA 5112, Australia",Elizabeth,5112,-34.723896,138.6630158,10,40132140000,40393,4,South Australia,45680,Playford (C),7679,42737.0,283
+322,Playford Tavern,"80 Peachey Rd, Davoren Park SA 5113, Australia",Davoren Park,5113,-34.6926948,138.6681862,40,40131980000,40350,4,South Australia,45680,Playford (C),6371,38364.0,317
+323,Pooraka Football Club,"19 McCarthy Ct, Pooraka SA 5095, Australia",Pooraka,5095,-34.8286528,138.6216294,10,40173300000,41171,4,South Australia,47140,Salisbury (C),11753,51433.0,129
+324,Port Anchor,"15 Church Pl, Port Adelaide SA 5015, Australia",Port Adelaide,5015,-34.8462129,138.5026124,40,40150771000,41173,4,South Australia,45890,Port Adelaide Enfield (C),3526,52167.0,115
+325,Port Augusta West Football Club,"13 Gardiner Ave, Port Augusta West SA 5700, Australia",Port Augusta West,5700,-32.4798905,137.7621925,20,40152731000,41176,4,South Australia,46090,Port Augusta (C),5427,52060.0,117
+326,Port Broughton Hotel,"2 Bay St, Port Broughton SA 5522, Australia",Port Broughton,5522,-33.6003378,137.9302641,9,40015860000,41178,4,South Australia,40430,Barunga West (DC),653,47187.0,196
+327,Port Broughton Sunnyside Motel Hotel,"17 Bay St, Port Broughton SA 5522, Australia",Port Broughton,5522,-33.6002991,137.9332442,12,40015860000,41178,4,South Australia,40430,Barunga West (DC),653,47187.0,196
+328,Port Clinton Community and Sports Club,"12 Yararoo Dr, Clinton SA 5570, Australia",Clinton,5570,-34.2176278,138.0226107,6,40215212300,40269,4,South Australia,48830,Yorke Peninsula (DC),199,42908.0,279
+329,Port Football and Community Sporting Club,"Wandearah Road, Port Pirie South SA 5540, Australia",Port Pirie South,5540,-33.192092,138.008377,35,40156920000,41196,4,South Australia,46450,Port Pirie City and Dists (M),7028,49192.0,161
+330,Port Germein Hotel,"15 High St, Port Germein SA 5495, Australia",Port Germein,5495,-33.0210629,137.9994553,9,40098440000,41182,4,South Australia,44830,Mount Remarkable (DC),226,46583.0,209
+331,Port Hughes Tavern,"Minnie Terrace, Port Hughes SA 5558, Australia",Port Hughes,5558,-34.0758333,137.5455556,20,40046420000,41184,4,South Australia,41560,Copper Coast (DC),2252,43667.0,264
+332,Port Kenny Hotel,"Flinders Hwy, Port Kenny SA 5671, Australia",Port Kenny,5671,-33.1677417,134.6856614,5,40049000000,41186,4,South Australia,41750,Elliston (DC),105,63745.0,30
+333,Port Lincoln Hotel,"1 Lincoln Hwy, Port Lincoln SA 5606, Australia",Port Lincoln,5606,-34.7178306,135.8544911,40,40067580000,41187,4,South Australia,43710,Lower Eyre Peninsula (DC),8609,50977.0,136
+334,Port Noarlunga Hotel,"2 Gawler St, Port Noarlunga SA 5167, Australia",Port Noarlunga,5167,-35.1487395,138.4705545,40,40115391000,41192,4,South Australia,45340,Onkaparinga (C),3360,48338.0,180
+335,Port Victoria Hotel Motel,"1 Main St, Port Victoria SA 5573, Australia",Port Victoria,5573,-34.4962824,137.4834159,9,40214967800,41199,4,South Australia,48830,Yorke Peninsula (DC),1090,54225.0,95
+336,Port Wakefield Hotel,"22 Burra St, Port Wakefield SA 5550, Australia",Port Wakefield,5550,-34.1860326,138.1471933,6,40202540000,41201,4,South Australia,48130,Wakefield (DC),459,43742.0,261
+337,Portland Hotel,"286 Commercial Rd, Port Adelaide SA 5015, Australia",Port Adelaide,5015,-34.850244,138.508727,40,40150771000,41173,4,South Australia,45890,Port Adelaide Enfield (C),3526,52167.0,115
+338,Portside Tavern,"96 Ellen St, Port Pirie SA 5540, Australia",Port Pirie,5540,-33.1769805,138.009917,40,40156882000,41195,4,South Australia,46450,Port Pirie City and Dists (M),7028,49192.0,161
+339,Pretoria Hotel,"50 Randell St, Mannum SA 5238, Australia",Mannum,5238,-34.912476,139.3139346,40,40082722000,40811,4,South Australia,44210,Mid Murray (DC),2021,40685.0,303
+340,Prince Edward Hotel,"32 Hughes St, Wallaroo SA 5556, Australia",Wallaroo,5556,-33.9337589,137.6275698,10,40046150000,41502,4,South Australia,41560,Copper Coast (DC),1810,44280.0,251
+341,Prince Of Wales Hotel Motel,"58 Church St, Penola SA 5277, Australia",Penola,5277,-37.3777389,140.8366241,6,40204700000,41124,4,South Australia,48340,Wattle Range (DC),1636,49053.0,165
+342,Prince of Wales - Queenstown,"215 Port Rd, Queenstown SA 5014, Australia",Queenstown,5014,-34.8563216,138.510407,40,40151180000,41218,4,South Australia,45890,Port Adelaide Enfield (C),6570,49462.0,155
+343,Queenscliffe Family Hotel,"57 Dauncey St, Kingscote SA 5223, Australia",Kingscote,5223,-35.655091,137.6391311,7,40060490000,40691,4,South Australia,42750,Kangaroo Island (DC),2106,41835.0,292
+344,Quorn Hotel,"16 Railway Terrace, Quorn SA 5433, Australia",Quorn,5433,-32.3458026,138.0408244,8,40049500000,41220,4,South Australia,41830,Flinders Ranges (DC),649,51569.0,125
+345,RSL Colonel Light Gardens Sub-Branch,"4 Prince George Parade, Colonel Light Gardens SA 5041, Australia",Colonel Light Gardens,5041,-34.9862002,138.5977236,10,40088322000,40285,4,South Australia,44340,Mitcham (C),8181,60324.0,48
+346,RSL Marion Sub Branch,"31-39 Norfolk Rd, Marion SA 5043, Australia",Marion,5043,-35.0129057,138.554104,10,40072050000,40821,4,South Australia,44060,Marion (C),9874,46835.0,202
+347,RSL Mount Gambier Sub Branch,"16 Sturt St, Mount Gambier SA 5290, Australia",Mount Gambier,5290,-37.8311111,140.7811111,40,40095360000,40940,4,South Australia,44620,Mount Gambier (C),14686,49042.0,166
+348,RSL Payneham Sub Branch,"360 Payneham Rd, Payneham SA 5070, Australia",Payneham,5070,-34.8957972,138.6410416,12,40103970000,41110,4,South Australia,45290,Norwood Payneham St Peters (C),8398,54829.0,88
+349,Railway Hotel,"221 Main St, Peterborough SA 5422, Australia",Peterborough,5422,-32.9733666,138.8351425,27,40129031000,41130,4,South Australia,45540,Peterborough (DC),630,40611.0,304
+350,Railway Hotel,"32 Alexandra Terrace, Jamestown SA 5491, Australia",Jamestown,5491,-33.199664,138.6064048,4,40102881000,40629,4,South Australia,45120,Northern Areas (DC),1091,53724.0,100
+351,Railway Hotel,"2 Gray St, Freeling SA 5372, Australia",Freeling,5372,-34.4552778,138.8083333,6,40064800000,40460,4,South Australia,43650,Light (RegC),1268,49761.0,152
+352,Ramsgate Hotel,"328 Seaview Rd, Henley Beach SA 5022, Australia",Henley Beach,5022,-34.9198514,138.4946922,40,40030450000,40578,4,South Australia,41060,Charles Sturt (C),9987,68287.0,22
+353,Red Lion Hotel,"173 Woodford Rd, Elizabeth North SA 5113, Australia",Elizabeth North,5113,-34.700237,138.676769,40,40131730000,40397,4,South Australia,45680,Playford (C),6371,38364.0,317
+354,Redlegs Club,"583 North East Road, Gilles Plains SA 5086, Australia",Gilles Plains,5086,-34.8558481,138.656966,40,40138240000,40490,4,South Australia,45890,Port Adelaide Enfield (C),8755,48733.0,170
+355,Reepham Hotel,"273 Churchill Rd, Prospect SA 5082, Australia",Prospect,5082,-34.874649,138.5848807,40,40159942000,41206,4,South Australia,46510,Prospect (C),9131,61611.0,37
+356,Regency Tavern,"Days Rd, Regency Park SA 5010, Australia",Regency Park,5010,-34.8650988,138.5664564,40,40148661000,41232,4,South Australia,45890,Port Adelaide Enfield (C),2602,43250.0,272
+357,Renmark Club,"160 Murray Ave, Renmark SA 5341, Australia",Renmark,5341,-34.173148,140.750543,40,40162620000,41235,4,South Australia,46670,Renmark Paringa (DC),4305,43114.0,275
+358,Renmark Golf Club,"19878 Sturt Hwy, Old Calperum SA 5341, Australia",Old Calperum,5341,-34.2142602,140.692925,16,40429390000,41060,4,South Australia,46670,Renmark Paringa (DC),4305,43114.0,275
+359,Renmark Hotel Motel,"Murray Ave, Renmark SA 5341, Australia",Renmark,5341,-34.174625,140.750663,40,40162620000,41235,4,South Australia,46670,Renmark Paringa (DC),4305,43114.0,275
+360,Republic Norwood,"120 Magill Rd, Norwood SA 5067, Australia",Norwood,5067,-34.91554259999999,138.6313934,40,40106130000,41044,4,South Australia,45290,Norwood Payneham St Peters (C),6601,75339.0,13
+361,Rex Hotel,"172-176 Richmond Rd, Marleston SA 5033, Australia",Marleston,5033,-34.9425384,138.5645783,40,40206920000,40826,4,South Australia,48410,West Torrens (C),4625,48510.0,176
+362,Rezz,"20 Hamilton Terrace, Newton SA 5074, Australia",Newton,5074,-34.876017,138.6904698,40,40023600000,41020,4,South Australia,40910,Campbelltown (C),7045,48149.0,185
+363,Richies Tavern,"24 Hutchinson St, Mount Barker SA 5251, Australia",Mount Barker,5251,-35.0661267,138.8594359,40,40092432000,40923,4,South Australia,44550,Mount Barker (DC),8596,51261.0,131
+364,Rising Sun Hotel,"19 Main N Rd, Auburn SA 5451, Australia",Auburn,5451,-34.0259937,138.6853377,6,40044451000,40050,4,South Australia,41140,Clare and Gilbert Valleys (DC),436,47087.0,199
+365,Rising Sun Hotel,"95 Main St, Lobethal SA 5241, Australia",Lobethal,5241,-34.9014841,138.8753906,6,40007860000,40764,4,South Australia,40120,Adelaide Hills (DC),1477,50781.0,138
+366,Rising Sun Hotel Port Wakefield,"30 Edward St, Port Wakefield SA 5550, Australia",Port Wakefield,5550,-34.1847649,138.1482253,40,40202540000,41201,4,South Australia,48130,Wakefield (DC),459,43742.0,261
+367,Riverside Hotel,"80 Princes Hwy, Tailem Bend SA 5260, Australia",Tailem Bend,5260,-35.2535728,139.4516051,20,40192940000,41402,4,South Australia,47800,The Coorong (DC),859,43078.0,276
+368,Riverton Hotel,"27 Torrens Rd, Riverton SA 5412, Australia",Riverton,5412,-34.1581866,138.7473646,9,40044540000,41250,4,South Australia,41140,Clare and Gilbert Valleys (DC),620,47040.0,201
+369,Rob Roy Hotel,"106 Halifax St, Adelaide SA 5000, Australia",Adelaide,5000,-34.9324366,138.6043105,20,40000010000,40002,4,South Australia,40070,Adelaide (C),7785,63332.0,33
+370,Robe Hotel,"Mundy Terrace, Robe SA 5276, Australia",Robe,5276,-37.162591,139.7545735,21,40163400000,41251,4,South Australia,46860,Robe (DC),864,48423.0,179
+371,Robin Hood Hotel,"315 Portrush Rd, Norwood SA 5067, Australia",Norwood,5067,-34.925577,138.641045,32,40106130000,41044,4,South Australia,45290,Norwood Payneham St Peters (C),6601,75339.0,13
+372,Roopena Football and Sporting Club Whyalla Incorporated,"19-33 Fisk St, Whyalla Norrie SA 5608, Australia",Whyalla Norrie,5608,-33.0184593,137.5343717,26,40214900000,41574,4,South Australia,48540,Whyalla (C),5380,52242.0,113
+373,Roosters Club,"737 Grand Jct Rd, Northfield SA 5085, Australia",Northfield,5085,-34.8467917,138.6262829,40,40138050000,41041,4,South Australia,45890,Port Adelaide Enfield (C),10964,50432.0,141
+374,Rose and Crown Hotel,"100 Philip Hwy, Elizabeth South SA 5112, Australia",Elizabeth South,5112,-34.7330933,138.661499,40,40131570000,40399,4,South Australia,45680,Playford (C),7679,42737.0,283
+375,Rosewater Hotel,"87-93 Grand Jct Rd, Rosewater SA 5013, Australia",Rosewater,5013,-34.8514626,138.521224,40,40150850000,41263,4,South Australia,45890,Port Adelaide Enfield (C),5008,46204.0,217
+376,Roxby Downs Club,"Burgoyne St, Roxby Downs SA 5725, Australia",Roxby Downs,5725,-30.5619,136.8947999,40,40164020000,41268,4,South Australia,46970,Roxby Downs (M),2517,84257.0,6
+377,Roxby Downs Tavern,"1 Richardson Pl, Roxby Downs SA 5725, Australia",Roxby Downs,5725,-30.5621488,136.8983882,40,40164020000,41268,4,South Australia,46970,Roxby Downs (M),2517,84257.0,6
+378,Royal Exchange Hotel,"1 Bests Pl, Burra SA 5417, Australia",Burra,5417,-33.671737,138.9281769,8,40052691000,40193,4,South Australia,42110,Goyder (DC),794,44079.0,257
+379,Royal Exchange Hotel,"7 Digby St, Kadina SA 5554, Australia",Kadina,5554,-33.9630556,137.7147222,40,40046191000,40640,4,South Australia,41560,Copper Coast (DC),2819,51863.0,119
+380,Royal Family Hotel,"32 North Terrace, Port Elliot SA 5212, Australia",Port Elliot,5212,-35.5300941,138.6811613,12,40008440000,41180,4,South Australia,40220,Alexandrina (DC),1161,38328.0,318
+381,Royal Hotel,"2 Ryan St, Moonta SA 5558, Australia",Moonta,5558,-34.0682415,137.5935004,20,40046330000,40906,4,South Australia,41560,Copper Coast (DC),2252,43667.0,264
+382,Royal Hotel,"24 Bowman St, Crystal Brook SA 5523, Australia",Crystal Brook,5523,-33.35225399999999,138.2074534,6,40159091000,40328,4,South Australia,46450,Port Pirie City and Dists (M),981,57247.0,68
+383,Royal Hotel,"9 Edith Terrace, Balaklava SA 5461, Australia",Balaklava,5461,-34.1455905,138.4136797,6,40202320000,40061,4,South Australia,48130,Wakefield (DC),1375,49101.0,163
+384,Royal Hotel,"2 North Terrace, Kent Town SA 5067, Australia",Kent Town,5067,-34.91973,138.615436,40,40106100000,40674,4,South Australia,45290,Norwood Payneham St Peters (C),6601,75339.0,13
+385,Royal House Hotel,"1 Fifth St, Ardrossan SA 5571, Australia",Ardrossan,5571,-34.4225556,137.9193896,29,40215010800,40038,4,South Australia,48830,Yorke Peninsula (DC),892,48107.0,186
+386,Royal Oak Hotel,"123 O'Connell St, North Adelaide SA 5006, Australia",North Adelaide,5006,-34.9051939,138.5953956,40,40000080000,41029,4,South Australia,40070,Adelaide (C),4183,90092.0,5
+387,Royal Oak Hotel,"31 Church St, Penola SA 5277, Australia",Penola,5277,-37.3797785,140.8374635,16,40204700000,41124,4,South Australia,48340,Wattle Range (DC),1636,49053.0,165
+388,Sailmaster Tavern,"16 Arcadia Ct, North Haven SA 5018, Australia",North Haven,5018,-34.7870492,138.4889078,40,40144820000,41034,4,South Australia,45890,Port Adelaide Enfield (C),3526,55009.0,85
+389,Salisbury Hotel,"52 Commercial Rd, Salisbury SA 5108, Australia",Salisbury,5108,-34.7615388,138.6491483,40,40164461000,41275,4,South Australia,47140,Salisbury (C),19239,43160.0,274
+390,Salisbury North Football Club,"39-41 Bagster Rd, Salisbury North SA 5108, Australia",Salisbury North,5108,-34.7532218,138.6334061,40,40167810000,41279,4,South Australia,47140,Salisbury (C),19239,43160.0,274
+391,Salisbury Sub-Branch RSL,"19 Park Terrace, Salisbury SA 5108, Australia",Salisbury,5108,-34.7638732,138.6428101,10,40164461000,41275,4,South Australia,47140,Salisbury (C),19239,43160.0,274
+392,Salisbury West Sports Club,"Londonderry Avenue, Salisbury Downs SA 5108, Australia",Salisbury Downs,5108,-34.771785,138.62638,12,40164520000,41276,4,South Australia,47140,Salisbury (C),19239,43160.0,274
+393,Saracens Head,"82 Carrington St, Adelaide SA 5000, Australia",Adelaide,5000,-34.9311874,138.6032881,25,40000010000,40002,4,South Australia,40070,Adelaide (C),7785,63332.0,33
+394,Sea Breeze Hotel,"7 Tumby Terrace, Tumby Bay SA 5605, Australia",Tumby Bay,5605,-34.3765373,136.1029311,15,40066170000,41460,4,South Australia,43710,Lower Eyre Peninsula (DC),1038,44292.0,250
+395,Seaside Hotel,"2-10 Fooks Terrace, St Kilda SA 5110, Australia",Saint Kilda,5110,-34.7391762,138.5343753,20,40177790000,41358,4,South Australia,47140,Salisbury (C),4270,46401.0,213
+396,Semaphore Hotel,"17 Semaphore Rd, Semaphore SA 5019, Australia",Semaphore,5019,-34.8380597,138.4817324,40,40145110000,41316,4,South Australia,45890,Port Adelaide Enfield (C),5160,57257.0,67
+397,Semaphore Palais,"86 Esplanade, Semaphore SA 5019, Australia",Semaphore,5019,-34.8364978,138.4806289,40,40145110000,41316,4,South Australia,45890,Port Adelaide Enfield (C),5160,57257.0,67
+398,Settlers Tavern,"249 Montague Rd, Ingle Farm SA 5098, Australia",Ingle Farm,5098,-34.8290592,138.6502231,40,40173151000,40613,4,South Australia,47140,Salisbury (C),6301,45849.0,223
+399,Seven Stars Hotel,"187 Angas St, Adelaide SA 5000, Australia",Adelaide,5000,-34.929996,138.608012,12,40000010000,40002,4,South Australia,40070,Adelaide (C),7785,63332.0,33
+400,Sevenhill Hotel,"Main N Rd, Sevenhill SA 5453, Australia",Sevenhill,5453,-33.8900761,138.6286662,40,40044430000,41321,4,South Australia,41140,Clare and Gilbert Valleys (DC),3024,50599.0,139
+401,Silks On Grenfell Hotel,"Level 2/14 Grenfell St, Adelaide SA 5000, Australia",Adelaide,5000,-34.9240927,138.6002465,20,40000010000,40002,4,South Australia,40070,Adelaide (C),7785,63332.0,33
+402,Sir John Franklin Hotel,"57 Main St, Kapunda SA 5373, Australia",Kapunda,5373,-34.3410002,138.9150871,26,40064402000,40660,4,South Australia,43650,Light (RegC),1844,48057.0,187
+403,Sky Tavern,"4 Tassie St, Port Augusta SA 5700, Australia",Port Augusta,5700,-32.490439,137.7621439,40,40152541000,41175,4,South Australia,46090,Port Augusta (C),5427,52060.0,117
+404,SlugNLettuce Tavern,"130 Martins Rd, Parafield Gardens SA 5107, Australia",Parafield Gardens,5107,-34.7745773,138.6150503,40,40164450000,41092,4,South Australia,47140,Salisbury (C),8378,43387.0,268
+405,Smithfield Hotel Motel,"1 Main N Rd, Smithfield SA 5114, Australia",Smithfield,5114,-34.68348100000001,138.6929883,40,40134690000,41333,4,South Australia,45680,Playford (C),17569,47468.0,192
+406,Snowtown Hotel,"32 Railway Terrace E, Snowtown SA 5520, Australia",Snowtown,5520,-33.7821717,138.2144995,12,40202380000,41336,4,South Australia,48130,Wakefield (DC),256,47104.0,198
+407,Somerset Hotel,"2 George St, Millicent SA 5280, Australia",Millicent,5280,-37.5940346,140.3514898,30,40205300000,40870,4,South Australia,48340,Wattle Range (DC),4016,50117.0,145
+408,Somerset Hotel,"505 Bridge Rd, Para Hills SA 5096, Australia",Para Hills,5096,-34.8002778,138.6555556,40,40173161000,41085,4,South Australia,47140,Salisbury (C),7504,47055.0,200
+409,South Adelaide Footballers Club,"Flinders University Stadium, 1 Lovelock Dr, Noarlunga Downs SA 5168, Australia",Noarlunga Downs,5168,-35.1457439,138.4922763,40,40115220000,41026,4,South Australia,45340,Onkaparinga (C),2801,44916.0,243
+410,South Australian Harness Racing Club,"2 Globe Derby Dr, Dry Creek SA 5094, Australia",Dry Creek,5094,-34.7945737,138.5862644,40,40142201000,40369,4,South Australia,45890,Port Adelaide Enfield (C),484,49355.0,158
+411,South Australian Hotel,"78 Commercial St E, Mount Gambier SA 5290, Australia",Mount Gambier,5290,-37.8296515,140.7837819,30,40095360000,40940,4,South Australia,44620,Mount Gambier (C),14686,49042.0,166
+412,South Eastern Hotel,"235 Commercial St E, Mount Gambier SA 5290, Australia",Mount Gambier,5290,-37.833978,140.799057,40,40095360000,40940,4,South Australia,44620,Mount Gambier (C),14686,49042.0,166
+413,South Lakes Golf Club,"Billabong Rd, Goolwa South SA 5214, Australia",Goolwa South,5214,-35.5181828,138.7800305,25,40008780000,40519,4,South Australia,40220,Alexandrina (DC),4071,40545.0,305
+414,Southern Districts Workingmens Club,"24 Epstein Dr, Morphett Vale SA 5162, Australia",Morphett Vale,5162,-35.1289019,138.5307362,20,40112170000,40917,4,South Australia,45340,Onkaparinga (C),18472,45328.0,232
+415,Southwark Hotel,"77 Port Rd, Thebarton SA 5031, Australia",Thebarton,5031,-34.913522,138.577589,6,40206890000,41429,4,South Australia,48410,West Torrens (C),5739,52684.0,107
+416,Sportsman Hotel,"72 George St, Millicent SA 5280, Australia",Millicent,5280,-37.5960026,140.3551165,40,40205300000,40870,4,South Australia,48340,Wattle Range (DC),4016,50117.0,145
+417,Sportsman Tavern,"150 Warnertown Rd, Solomontown SA 5540, Australia",Solomontown,5540,-33.1858333,138.0230556,40,40156970000,41338,4,South Australia,46450,Port Pirie City and Dists (M),7028,49192.0,161
+418,Spuds Hotel Motel,"Stuart Hwy, Pimba SA 5720, Australia",Pimba,5720,-31.2556859,136.8034663,13,40243460000,41140,4,South Australia,49399,Unincorporated SA,117,70298.0,18
+419,St Francis Winery Resort Hotel,"14 Bridge St, Reynella SA 5161, Australia",Reynella,5161,-35.08982719999999,138.538431,40,40124920000,41240,4,South Australia,45340,Onkaparinga (C),5571,46081.0,219
+420,Stamford Grand,"2 Jetty Rd, Glenelg SA 5045, Australia",Glenelg,5045,-34.9809387,138.5113906,40,40054740000,40500,4,South Australia,42600,Holdfast Bay (C),10400,64336.0,29
+421,Stirling Hotel,"52 Mount Barker Rd, Stirling SA 5152, Australia",Stirling,5152,-35.0067365,138.7180051,32,40003850000,41371,4,South Australia,40120,Adelaide Hills (DC),4164,76150.0,12
+422,Stockade Tavern,"2 Gawler St, Salisbury SA 5108, Australia",Salisbury,5108,-34.7622322,138.6431111,40,40164461000,41275,4,South Australia,47140,Salisbury (C),19239,43160.0,274
+423,Stockwell Hotel,"Duck Ponds Rd, Stockwell SA 5355, Australia",Stockwell,5355,-34.4352778,139.0561111,10,40013410000,41374,4,South Australia,40310,Barossa (DC),4424,50273.0,143
+424,Strathmore Hotel,"129 North Terrace, Adelaide SA 5000, Australia",Adelaide,5000,-34.9218178,138.5969235,37,40000010000,40002,4,South Australia,40070,Adelaide (C),7785,63332.0,33
+425,Streaky Bay Hotel Motel,"33 Alfred Terrace, Streaky Bay SA 5680, Australia",Streaky Bay,5680,-32.7959987,134.2110031,30,40179210000,41383,4,South Australia,47490,Streaky Bay (DC),1320,46312.0,216
+426,Sundowner Motel Hotel,"Lincoln Hwy, Whyalla Norrie SA 5608, Australia",Whyalla Norrie,5608,-33.042342,137.540503,40,40214900000,41574,4,South Australia,48540,Whyalla (C),5380,52242.0,113
+427,Sunset Cove Resort Golf Course Marina,"Second Valley SA 5204, Australia",Second Valley,5204,-35.5367772,138.2322002,24,40218020000,41310,4,South Australia,48750,Yankalilla (DC),1454,39762.0,309
+428,Swan Reach Hotel,"Hasse Hill Rd, Swan Reach SA 5354, Australia",Swan Reach,5354,-34.5652902,139.5985749,20,40082491000,41399,4,South Australia,44210,Mid Murray (DC),171,39412.0,312
+429,Swanport Hotel,"3166 Jervois Rd, Murray Bridge SA 5253, Australia",Murray Bridge,5253,-35.1534701,139.2870964,40,40099410000,40979,4,South Australia,45040,Murray Bridge (RC),9833,41308.0,300
+430,Tailem Bend Hotel,"77 Railway Terrace, Tailem Bend SA 5260, Australia",Tailem Bend,5260,-35.25558,139.45543,25,40192940000,41402,4,South Australia,47800,The Coorong (DC),859,43078.0,276
+431,Talbot Hotel,"104 Gouger St, Adelaide SA 5000, Australia",Adelaide,5000,-34.9300076,138.5954388,40,40000010000,40002,4,South Australia,40070,Adelaide (C),7785,63332.0,33
+432,Taminga Hotel,"302 Main N Rd, Clare SA 5453, Australia",Clare,5453,-33.8324189,138.6102703,30,40044342000,40257,4,South Australia,41140,Clare and Gilbert Valleys (DC),3024,50599.0,139
+433,Tanunda Club,"45 Macdonnell St, Tanunda SA 5352, Australia",Tanunda,5352,-34.5245376,138.9609241,31,40015250000,41406,4,South Australia,40310,Barossa (DC),3248,56327.0,77
+434,Tanunda Hotel,"51 Murray St, Tanunda SA 5352, Australia",Tanunda,5352,-34.5261111,138.9577778,40,40015250000,41406,4,South Australia,40310,Barossa (DC),3248,56327.0,77
+435,Tassie Tavern,"12 Commercial Rd, Port Augusta SA 5700, Australia",Port Augusta,5700,-32.4905817,137.7615356,40,40152541000,41175,4,South Australia,46090,Port Augusta (C),5427,52060.0,117
+436,Tavern 540,"540 Port Rd, Allenby Gardens SA 5009, Australia",Allenby Gardens,5009,-34.8951024,138.5560223,40,40035000000,40012,4,South Australia,41060,Charles Sturt (C),2902,49743.0,153
+437,Tea Tree Gully Hotel,"1349 North East Road, Tea Tree Gully SA 5091, Australia",Tea Tree Gully,5091,-34.8211635,138.730202,40,40184060000,41418,4,South Australia,47700,Tea Tree Gully (C),4617,51939.0,118
+438,Terminus Hotel,"13 Rankine St, Strathalbyn SA 5255, Australia",Strathalbyn,5255,-35.2587653,138.8924978,12,40011110000,41382,4,South Australia,40220,Alexandrina (DC),5359,46377.0,215
+439,Terminus Hotel,"4 Railway Terrace, Balaklava SA 5461, Australia",Balaklava,5461,-34.1452125,138.412613,7,40202320000,40061,4,South Australia,48130,Wakefield (DC),1375,49101.0,163
+440,Terminus Hotel,"15 Railway Terrace, Morgan SA 5320, Australia",Morgan,5320,-34.0359352,139.6712265,10,40082641000,40915,4,South Australia,44210,Mid Murray (DC),279,42335.0,289
+441,The Boathouse Tavern Osborne,"481 Victoria Rd, Taperoo SA 5017, Australia",Taperoo,5017,-34.8015991,138.5009609,40,40144900000,41407,4,South Australia,45890,Port Adelaide Enfield (C),2368,48600.0,172
+442,The British Hotel Port Adelaide,"13 N Parade, Port Adelaide SA 5015, Australia",Port Adelaide,5015,-34.84384,138.5019,40,40150771000,41173,4,South Australia,45890,Port Adelaide Enfield (C),3526,52167.0,115
+443,The Eagles Club,"720 Port Rd, Beverley SA 5009, Australia",Beverley,5009,-34.8876435,138.5441892,40,40034911000,40100,4,South Australia,41060,Charles Sturt (C),2902,49743.0,153
+444,The Famous Royal Mail Hotel,"10 Hanson St, Kingston SE SA 5275, Australia",Kingston SE,5275,-36.8286743,139.8505554,20,40063051000,40695,4,South Australia,43360,Kingston (DC),1385,52291.0,112
+445,The Flinders Hotel Motel,"39 Commercial Rd, Port Augusta SA 5700, Australia",Port Augusta,5700,-32.491895,137.7620565,12,40152541000,41175,4,South Australia,46090,Port Augusta (C),5427,52060.0,117
+446,The Glanville Hotel,"50 Causeway Rd, Glanville SA 5015, Australia",Glanville,5015,-34.846281,138.493994,9,40145422000,40494,4,South Australia,45890,Port Adelaide Enfield (C),3526,52167.0,115
+447,The Halfway House Hotel Bellum Bellum,"Riddoch Hwy, Mount Schank SA 5291, Australia",Mount Schank,5291,-37.9287187,140.7197408,10,40054601000,40953,4,South Australia,42250,Grant (DC),4356,52619.0,108
+448,The Lighthouse Wharf Hotel,"1 Commercial Rd, Port Adelaide SA 5015, Australia",Port Adelaide,5015,-34.84295720000001,138.50466,40,40150771000,41173,4,South Australia,45890,Port Adelaide Enfield (C),3526,52167.0,115
+449,The Lion Hotel,"161 Melbourne St, North Adelaide SA 5006, Australia",North Adelaide,5006,-34.9081996,138.6058572,40,40000080000,41029,4,South Australia,40070,Adelaide (C),4183,90092.0,5
+450,The Lobethal Hotel,"16 Main St, Lobethal SA 5241, Australia",Lobethal,5241,-34.906736,138.874313,10,40007860000,40764,4,South Australia,40120,Adelaide Hills (DC),1477,50781.0,138
+451,The Lodge Hotel,"1572 Main N Rd, Brahma Lodge SA 5109, Australia",Brahma Lodge,5109,-34.7824837,138.6539956,40,40170750000,40153,4,South Australia,47140,Salisbury (C),10459,46565.0,210
+452,The London Tavern,"175 North Terrace, Adelaide SA 5000, Australia",Adelaide,5000,-34.9216851,138.6008055,40,40000010000,40002,4,South Australia,40070,Adelaide (C),7785,63332.0,33
+453,The New Whyalla Hotel,"10 Gowrie Ave, Whyalla Playford SA 5600, Australia",Whyalla Playford,5600,-33.023871,137.5626717,40,40214953500,41575,4,South Australia,48540,Whyalla (C),3504,60315.0,49
+454,The Oakden Central,"246-256 Fosters Rd, Oakden SA 5086, Australia",Oakden,5086,-34.8518419,138.636436,40,40138230000,41055,4,South Australia,45890,Port Adelaide Enfield (C),8755,48733.0,170
+455,The Ovingham Hotel,"29 Torrens Rd, Ovingham SA 5082, Australia",Ovingham,5082,-34.89781079999999,138.5853403,40,40041100000,41074,4,South Australia,41060,Charles Sturt (C),9131,61611.0,37
+456,The Oxford Hotel,"101 O'Connell St, North Adelaide SA 5006, Australia",North Adelaide,5006,-34.9058461,138.5956333,35,40000080000,41029,4,South Australia,40070,Adelaide (C),4183,90092.0,5
+457,The Palace,"111 Hindley St, Adelaide SA 5000, Australia",Adelaide,5000,-34.9234084,138.5953658,24,40000010000,40002,4,South Australia,40070,Adelaide (C),7785,63332.0,33
+458,The Pier Hotel (SA),"18 Holdfast Promenade, Glenelg, Adelaide SA 5045, Australia",Adelaide,5045,-34.977663,138.510646,40,40000010000,40002,4,South Australia,40070,Adelaide (C),10400,64336.0,29
+459,The Port Club,"9 Queen St, Alberton SA 5014, Australia",Alberton,5014,-34.8642331,138.5184876,40,40150780000,40007,4,South Australia,45890,Port Adelaide Enfield (C),6570,49462.0,155
+460,The Producers Hotel,"235 Grenfell St, Adelaide SA 5000, Australia",Adelaide,5000,-34.9240634,138.6099169,40,40000010000,40002,4,South Australia,40070,Adelaide (C),7785,63332.0,33
+461,The Propaganda Club,"Downstairs, 110 Grenfell St, Adelaide SA 5000, Australia",Adelaide,5000,-34.9239657,138.6035559,35,40000010000,40002,4,South Australia,40070,Adelaide (C),7785,63332.0,33
+462,The Rosey Hotel,"160 Hindley St, Adelaide SA 5000, Australia",Adelaide,5000,-34.9230945,138.5937989,40,40000010000,40002,4,South Australia,40070,Adelaide (C),7785,63332.0,33
+463,The Seacliff Beach Hotel,"221 Esplanade, Seacliff SA 5049, Australia",Seacliff,5049,-35.0315728,138.5179067,40,40058070000,41298,4,South Australia,42600,Holdfast Bay (C),6384,58623.0,59
+464,The Southern,"23 Murray St, Gawler SA 5118, Australia",Gawler,5118,-34.6026243,138.7497776,40,40050490000,40469,4,South Australia,42030,Gawler (T),10640,52422.0,111
+465,The Southern Bar Gaming Bistro,"1303 South Rd, St Marys SA 5042, Australia",St Marys,5042,-35.0074819,138.5762564,40,40089641000,41360,4,South Australia,44340,Mitcham (C),5856,46793.0,204
+466,The Valley Inn,"1210 Grand Jct Rd, Hope Valley SA 5090, Australia",Hope Valley,5090,-34.8435137,138.6986971,40,40188900000,40601,4,South Australia,47700,Tea Tree Gully (C),4135,45713.0,227
+467,The Wasleys Grainger Hotel,"4 Annie Terrace, Wasleys SA 5400, Australia",Wasleys,5400,-34.4709899,138.6827538,6,40064741000,41528,4,South Australia,43650,Light (RegC),479,48751.0,169
+468,Thevenard Hotel,"115 Thevenard Rd, Thevenard SA 5690, Australia",Thevenard,5690,-32.1461936,133.6503125,20,40029711000,41430,4,South Australia,41010,Ceduna (DC),2141,51155.0,133
+469,Tintinara Hotel,"41 Becker Terrace, Tintinara SA 5266, Australia",Tintinara,5266,-35.8842114,140.0572366,4,40192890000,41440,4,South Australia,47800,The Coorong (DC),423,46684.0,206
+470,Tonsley Hotel,"1274 South Rd, Tonsley SA 5042, Australia",Tonsley,5042,-35.0045232,138.575096,40,40071830000,40271,4,South Australia,44060,Marion (C),5856,46793.0,204
+471,Torrens Arms Hotel,"93 Belair Rd, Kingswood SA 5062, Australia",Kingswood,5062,-34.974107,138.610048,40,40087940000,40696,4,South Australia,44340,Mitcham (C),9776,74550.0,14
+472,Totness Inn,"148 Melrose St, Mount Pleasant SA 5235, Australia",Mount Pleasant,5235,-34.7716974,139.0523829,10,40014110000,40952,4,South Australia,40310,Barossa (DC),1373,45163.0,238
+473,Tower Hotel,"621 Magill Rd, Magill SA 5072, Australia",Magill,5072,-34.9128151,138.6763306,40,40018320000,40797,4,South Australia,40700,Burnside (C),7623,61244.0,40
+474,Transcontinental Hotel,"15 Railway Terrace, Quorn SA 5433, Australia",Quorn,5433,-32.3460697,138.0405333,10,40049500000,41220,4,South Australia,41830,Flinders Ranges (DC),649,51569.0,125
+475,Travellers Rest Hotel - Stirling North,"33 Port Augusta-Quorn Rd, Stirling North SA 5710, Australia",Stirling North,5710,-32.5176531,137.8394944,12,40152551000,41372,4,South Australia,46090,Port Augusta (C),1263,58040.0,63
+476,Troubridge Hotel,"Blanche St & Edith St, Edithburgh SA 5583, Australia",Edithburgh,5583,-35.085,137.7455556,15,40214976900,40390,4,South Australia,48830,Yorke Peninsula (DC),372,37756.0,319
+477,Tumby Bay Hotel,"1 North Terrace, Tumby Bay SA 5605, Australia",Tumby Bay,5605,-34.375196,136.1029287,11,40066170000,41460,4,South Australia,43710,Lower Eyre Peninsula (DC),1038,44292.0,250
+478,Two Wells Hotel,"116 Old Port Wakefield Rd, Two Wells SA 5501, Australia",Two Wells,5501,-34.5928471,138.513088,20,40069411000,41464,4,South Australia,40150,Adelaide Plains (DC),4007,51241.0,132
+479,Union Hotel,"70 Waymouth St, Adelaide SA 5000, Australia",Adelaide,5000,-34.9258117,138.5970574,15,40000010000,40002,4,South Australia,40070,Adelaide (C),7785,63332.0,33
+480,Valley Hotel,"73 Murray St, Tanunda SA 5352, Australia",Tanunda,5352,-34.5256272,138.9585348,40,40015250000,41406,4,South Australia,40310,Barossa (DC),3248,56327.0,77
+481,Ventnor Hotel,"35 Marine Parade, Port Vincent SA 5581, Australia",Port Vincent,5581,-34.7774445,137.8613021,17,40215026500,41200,4,South Australia,48830,Yorke Peninsula (DC),279,46764.0,205
+482,Victor Resort Hotel,"1 Albert Pl, Victor Harbor SA 5211, Australia",Victor Harbor,5211,-35.5566454,138.622635,40,40199800000,41489,4,South Australia,48050,Victor Harbor (C),7775,40525.0,306
+483,Victoria Hotel,"40 Meylin St, Port Macdonnell SA 5291, Australia",Port Macdonnell,5291,-38.0524957,140.7001924,15,40053821000,41188,4,South Australia,42250,Grant (DC),4356,52619.0,108
+484,Victoria Hotel,"Main S Rd, O'Halloran Hill SA 5158, Australia",O'Halloran Hill,5158,-35.0502272,138.5595552,40,40072200000,41052,4,South Australia,44060,Marion (C),15497,51144.0,134
+485,Victoria Hotel Strathalbyn,"16 Albyn Terrace, Strathalbyn SA 5255, Australia",Strathalbyn,5255,-35.2592335,138.8910423,40,40011110000,41382,4,South Australia,40220,Alexandrina (DC),5359,46377.0,215
+486,Village Tavern,"The Golden Way &, The Grove Way, Golden Grove SA 5125, Australia",Golden Grove,5125,-34.7898718,138.696371,40,40184101000,40511,4,South Australia,47700,Tea Tree Gully (C),11733,56373.0,75
+487,Vine Inn,"14-22 Murray St, Nuriootpa SA 5355, Australia",Nuriootpa,5355,-34.47318,138.9960845,40,40013001000,41049,4,South Australia,40310,Barossa (DC),4424,50273.0,143
+488,WA/SA Border Village Hotel-Motel,"Eyre Hwy, Nullarbor SA 5690, Australia",Nullarbor,5690,-31.6390435,129.0043074,10,40215059300,41047,4,South Australia,49399,Unincorporated SA,2141,51155.0,133
+489,Waikerie Club,"10 Crush Terrace, Waikerie SA 5330, Australia",Waikerie,5330,-34.180451,139.986335,20,40068591000,41495,4,South Australia,43790,Loxton Waikerie (DC),1967,43622.0,265
+490,Waikerie Hotel,"2 McCoy St, Waikerie SA 5330, Australia",Waikerie,5330,-34.1792183,139.9852131,40,40068591000,41495,4,South Australia,43790,Loxton Waikerie (DC),1967,43622.0,265
+491,Wakefield Hotel,"76 Wakefield St, Adelaide SA 5000, Australia",Adelaide,5000,-34.928248,138.603471,21,40000010000,40002,4,South Australia,40070,Adelaide (C),7785,63332.0,33
+492,Walkers Arms Hotel,"36 North East Road, Walkerville SA 5081, Australia",Walkerville,5081,-34.8895578,138.6134776,40,40203590000,41498,4,South Australia,48260,Walkerville (M),6077,92916.0,3
+493,Wallaroo Hotel,"26 Alexander St, Wallaroo SA 5556, Australia",Wallaroo,5556,-33.9327209,137.6215846,9,40046150000,41502,4,South Australia,41560,Copper Coast (DC),1810,44280.0,251
+494,Wallis Tavern / Auchendarroch House,"17 Adelaide Rd, Mount Barker SA 5251, Australia",Mount Barker,5251,-35.0686438,138.8564211,40,40092432000,40923,4,South Australia,44550,Mount Barker (DC),8596,51261.0,131
+495,Warooka Hotel,"Yorketown-Warooka Rd, Warooka SA 5577, Australia",Warooka,5577,-34.990689,137.4006013,15,40222510000,41523,4,South Australia,48830,Yorke Peninsula (DC),333,34881.0,326
+496,Warradale Hotel,"234 Diagonal Rd, Warradale SA 5046, Australia",Warradale,5046,-35.0077351,138.5386367,40,40072260000,41524,4,South Australia,44060,Marion (C),5134,49803.0,151
+497,Waterloo Station Hotel,"138 Waterloo Corner Rd, Paralowie SA 5108, Australia",Paralowie,5108,-34.7544535,138.6277966,40,40167760000,41093,4,South Australia,47140,Salisbury (C),19239,43160.0,274
+498,Watermark Glenelg,"631 Anzac Hwy, Glenelg North SA 5045, Australia",Glenelg North,5045,-34.9760971,138.5145978,40,40054780000,40502,4,South Australia,42600,Holdfast Bay (C),10400,64336.0,29
+499,Wee Willies Tavern,"565 Military Rd, Largs North SA 5016, Australia",Largs North,5016,-34.8170891,138.4936066,40,40144870000,40744,4,South Australia,45890,Port Adelaide Enfield (C),5125,55733.0,82
+500,Weeroona Hotel,"4 John Terrace, Wallaroo SA 5556, Australia",Wallaroo,5556,-33.9302417,137.624268,16,40046150000,41502,4,South Australia,41560,Copper Coast (DC),1810,44280.0,251
+501,Weintal Motel-Hotel,"235 Murray St, Tanunda SA 5352, Australia",Tanunda,5352,-34.512635,138.9760568,20,40015250000,41406,4,South Australia,40310,Barossa (DC),3248,56327.0,77
+502,Wellington Hotel,"36 Wellington Square, North Adelaide SA 5006, Australia",North Adelaide,5006,-34.907607,138.592649,10,40000080000,41029,4,South Australia,40070,Adelaide (C),4183,90092.0,5
+503,Wellington Hotel,"27 Mason St, Wellington SA 5259, Australia",Wellington,5259,-35.330698,139.383974,8,40101141000,41547,4,South Australia,45040,Murray Bridge (RC),467,36347.0,322
+504,West Adelaide Footballers Club,"Hisense Stadium, 57 Milner Rd, Richmond SA 5033, Australia",Richmond,5033,-34.9369772,138.5673916,40,40206980000,41243,4,South Australia,48410,West Torrens (C),4625,48510.0,176
+505,West End Tavern,"255 Hindley St, Adelaide SA 5000, Australia",Adelaide,5000,-34.9235932,138.5897123,40,40000010000,40002,4,South Australia,40070,Adelaide (C),7785,63332.0,33
+506,West Thebarton Hotel,"51 South Rd, Thebarton SA 5031, Australia",Thebarton,5031,-34.9148289,138.5662094,40,40206890000,41429,4,South Australia,48410,West Torrens (C),5739,52684.0,107
+507,West Whyalla Football Club,"Crn Playford Ave &, Slee St, Whyalla SA 5600, Australia",Whyalla,5600,-33.03854640000001,137.5633771,12,40214945200,41571,4,South Australia,48540,Whyalla (C),3504,60315.0,49
+508,Western Hotel,"10 Loudon Rd, Port Augusta West SA 5700, Australia",Port Augusta West,5700,-32.4839206,137.7586956,40,40152731000,41176,4,South Australia,46090,Port Augusta (C),5427,52060.0,117
+509,Western Tavern,"178 Jubilee Hwy E, Mount Gambier SA 5290, Australia",Mount Gambier,5290,-37.8157838,140.7606124,40,40095360000,40940,4,South Australia,44620,Mount Gambier (C),14686,49042.0,166
+510,Westland Hotel/Motel,"100 Mcdouall Stuart Ave, Whyalla Norrie SA 5608, Australia",Whyalla Norrie,5608,-33.0291294,137.5303692,40,40214900000,41574,4,South Australia,48540,Whyalla (C),5380,52242.0,113
+511,Wheatsheaf Hotel,"Old Port Wakefield Rd, Virginia SA 5120, Australia",Virginia,5120,-34.66589099999999,138.5596193,36,40135400000,41491,4,South Australia,45680,Playford (C),1303,51715.0,121
+512,Wheatsheaf Hotel,"32 Gardner St, Price SA 5570, Australia",Price,5570,-34.2874747,137.9960332,6,40215212400,41204,4,South Australia,48830,Yorke Peninsula (DC),199,42908.0,279
+513,Wheatsheaf Hotel - North Sheilds,"Dorward St, North Shields SA 5607, Australia",North Shields,5607,-34.6260103,135.8661416,10,40066360000,41037,4,South Australia,43710,Lower Eyre Peninsula (DC),2041,48231.0,182
+514,Whitehorse Inn Hotel,"887-889 Port Wakefield Rd, Bolivar SA 5110, Australia",Bolivar,5110,-34.7669472,138.5934981,40,40178570000,40131,4,South Australia,47140,Salisbury (C),4270,46401.0,213
+515,Willaston Hotel,"33 Main N Rd, Willaston SA 5118, Australia",Willaston,5118,-34.5885476,138.7434951,40,40050550000,41586,4,South Australia,42030,Gawler (T),10640,52422.0,111
+516,Williamstown Hotel,"20 Queen St, Williamstown SA 5351, Australia",Williamstown,5351,-34.6705556,138.8905556,6,40014030000,41588,4,South Australia,40310,Barossa (DC),3490,51645.0,123
+517,Willunga Hotel,"3-5 High St, Willunga SA 5172, Australia",Willunga,5172,-35.2722222,138.5552778,10,40110930000,41595,4,South Australia,45340,Onkaparinga (C),2565,50498.0,140
+518,Wilmington Hotel,"1 Main N Rd, Wilmington SA 5485, Australia",Wilmington,5485,-32.6512643,138.0986306,10,40049640000,41599,4,South Australia,41830,Flinders Ranges (DC),331,52547.0,110
+519,Windmill Hotel,"94 Main N Rd, Prospect SA 5082, Australia",Prospect,5082,-34.8912622,138.6030843,40,40159942000,41206,4,South Australia,46510,Prospect (C),9131,61611.0,37
+520,Windsor Hotel,"410 North East Road, Windsor Gardens SA 5087, Australia",Windsor Gardens,5087,-34.8655596,138.6449204,40,40138180000,41601,4,South Australia,45890,Port Adelaide Enfield (C),6421,48571.0,173
+521,Wirrabara Hotel,"65 High St, Wirrabara SA 5481, Australia",Wirrabara,5481,-33.0332434,138.2685131,6,40098430000,41606,4,South Australia,44830,Mount Remarkable (DC),315,38403.0,316
+522,Wolseley Hotel,"Railway Terrace N, Wolseley SA 5269, Australia",Wolseley,5269,-36.364735,140.904974,8,40180672000,41615,4,South Australia,47630,Tatiara (DC),117,35258.0,324
+523,Wombat Hotel,"19 Taylor St, Kadina SA 5554, Australia",Kadina,5554,-33.9627261,137.7115001,20,40046191000,40640,4,South Australia,41560,Copper Coast (DC),2819,51863.0,119
+524,Woodcroft Tavern,"Bains Rd &, Panalatinga Rd, Woodcroft SA 5162, Australia",Woodcroft,5162,-35.1141144,138.547589,40,40125032000,41622,4,South Australia,45340,Onkaparinga (C),18472,45328.0,232
+525,Woodside Hotel,"5244/34 Onkaparinga Valley Rd, Woodside SA 5244, Australia",Woodside,5244,-34.9528807,138.8756284,10,40007480000,41627,4,South Australia,40120,Adelaide Hills (DC),2467,51561.0,126
+526,Woodville Hotel,"878 Port Rd, Woodville South SA 5011, Australia",Woodville South,5011,-34.880597,138.534049,40,40034890000,41632,4,South Australia,41060,Charles Sturt (C),7125,51583.0,124
+527,Woolshed Inn Hotel Motel,"101 Woolshed St, Bordertown SA 5268, Australia",Bordertown,5268,-36.308461,140.773679,20,40179910000,40142,4,South Australia,47630,Tatiara (DC),2412,42745.0,282
+528,Woolshed On Hindley,"94/100 Hindley St, Adelaide SA 5000, Australia",Adelaide,5000,-34.923053,138.595928,40,40000010000,40002,4,South Australia,40070,Adelaide (C),7785,63332.0,33
+529,Wudinna Hotel,"15-17 Burton Terrace, Wudinna SA 5652, Australia",Wudinna,5652,-33.046609,135.461356,10,40063780000,41644,4,South Australia,48640,Wudinna (DC),455,49999.0,147
+530,Yankalilla Hotel,"105 Main S Rd, Yankalilla SA 5203, Australia",Yankalilla,5203,-35.4567667,138.3482444,40,40215154000,41659,4,South Australia,48750,Yankalilla (DC),679,40699.0,302
+531,Yorke Hotel,"1 Warooka Rd, Yorketown SA 5576, Australia",Yorketown,5576,-35.019227,137.605017,40,40215035700,41673,4,South Australia,48830,Yorke Peninsula (DC),595,43689.0,263
+532,Yorke Valley Hotel,"20 Robert St, Maitland SA 5573, Australia",Maitland,5573,-34.3746646,137.6724832,12,40215072300,40799,4,South Australia,48830,Yorke Peninsula (DC),1090,54225.0,95
