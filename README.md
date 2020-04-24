@@ -1,2 +1,2 @@
 # IBM Data Science Capstone Project
-Battle of the Neighborhoods
+Capstone Project - The Battle of Neighborhoods (Week 2)
