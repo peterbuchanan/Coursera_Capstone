@@ -1,4 +1,4 @@
-# IBM Applied Data Science Capstone Report
+# IBM Applied Data Science Report
 
 ## Evaluate metropolitan Adelaide hotel locations by net gaming revenue, population density and traffic volume
 
